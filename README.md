@@ -135,7 +135,7 @@ graph LR
 *C: Çünkü sektördeki 'Diploma Enflasyonu' karşısında tek gerçek kale liyakatindir.*
 
 **S: Akademik ortalama (GPA) önemsiz mi?**
-*C: Önemsiz değil, ancak tek başına yeterli de değil. Yüksek GPA bir kapıyı açabilir, ama o kapıdan içeriye 'bilgin' girer.*
+*C: Önemsiz değil, ancak tek başına yeterli de değil. Yüksek GPA bir kapıyı açabilir, ama bazen o kapı 'uyumlu bir çalışan' arayanlar içindir. Gerçek mühendislik liyakati, kendi yolunu çizebilme yetisidir.* [🔍 Sektörün 'Güvenli Liman' Analizi](./SISTEM_ELESTIRISI.md)
 
 **S: AI bizi işsiz bırakacak mı?**
 *C: AI, mühendisleri değil; sadece kod yazan 'operatörleri' işsiz bırakacak. Mühendislik, problem çözme sanatıdır.*

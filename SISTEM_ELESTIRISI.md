@@ -12,7 +12,14 @@ Dünyanın en iyi üniversitelerinin (MIT, Stanford, Harvard) ve en yetkin bağ�
 ## 🖋️ Analog Kodlama ve Mesleki Yabancılaşma
 **Vaka: Veri Yapıları Zulmü**
 Yazılım, "executable" (yürütülebilir) bir sanattır. Bir mühendisten, karmaşık bir veri yapısını veya algoritmayı kağıda kalemle çizmesi/yazması istenmesi, bir pilota kokpite girmeden kağıt üzerinde "uçuş simülasyonu" yaptırmakla eşdeğerdir. 
-- **Tespit:** Kağıt, kodun mezarıdır. Yazılım, derleyicide nefes alır.
+- [Tespit:] Kağıt, kodun mezarıdır. Yazılım, derleyicide nefes alır.
+
+## 💼 GPA ve Sektörel Psikoloji: Memuriyet vs. Girişimcilik
+**Vaka: Uyum Ödülü (Compliance Reward)**
+Sektörün GPA'ya verdiği değerin arkasında her zaman "deha" arayışı yatmaz. Çoğu zaman aranan şey, sistemin kurallarına koşulsuz uyum sağlayan, verilen talimatları sorgulamadan (ve sistemi terk etmeden) yerine getirecek "memur zihniyetli" (safe hire) çalışanlardır.
+- **Tez:** Yüksek GPA, öğrencinin sisteme ne kadar iyi uyum sağladığının bir göstergesidir.
+- **Korku Faktörü:** Sektör, 2 yıl sonra kendi rakibini kuracak kadar yetkin ve "isyan potensiyeli" olan vizyoner yazılımcıdan ziyade, 10 yıl boyunca aynı koltukta kalacak güvenli profilleri tercih edebilir. 
+- **Sonuç:** Akademik başarı, bazen yaratıcılığın ve girişimci ruhun törpülenmesi karşılığında verilen bir "uyum madalyasıdır".
 
 ---
 
