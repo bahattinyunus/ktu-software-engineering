@@ -8,17 +8,28 @@
 
 | Hafta | Konu | Çekirdek Disiplini |
 | :--- | :--- | :--- |
-| 1 | OS Giriş & Mimari Disiplin | Monolitik vs Microkernel (Stratejik seçimler). |
-| 2 | Sistem Çağrıları (System Calls) | Çekirdek ile doğrudan konuşma sanatı. |
-| 3 | Süreç Yönetimi (Process Mgmt) | Yaşam döngüsü ve kontrol disiplini. |
-| 4 | İş Parçacıkları (Threads) | Paralel dünyanın kuralları ve çatışma yönetimi. |
-| 5 | CPU Zamanlama (Scheduling) | Kaynakları en adil ve hızlı yönetme disiplini. |
-| 6 | Senkronizasyon & Locklar | Mutex, Semaphore ve Deadlock (Kağıtta değil, kolda!). |
-| 7 | Bellek Yönetimi (Memory) | Paging ve Segmentasyon (Fiziksel hakikat). |
+| 1 | OS Giriş & Mimari Disiplin | Monolitik vs Microkernel; Kernel Mode vs User Mode ayrımı. |
+| 2 | Sistem Çağrıları (System Calls) | `read()`, `write()`, `fork()` mekanizmaları ve Trap disiplini. |
+| 3 | Süreç Yönetimi (Process Mgmt) | Context Switching (Bağlam değişimi) ve PCB veri yapısı. |
+| 4 | İş Parçacıkları (Threads) | User-level vs Kernel-level threads; Race Condition analizi. |
+| 5 | CPU Zamanlama (Scheduling) | FCFS, SJF, Round Robin ve Multilevel Feedback Queue. |
+| 6 | Senkronizasyon & Locklar | Mutex, Semaphore, Spinlocks ve Deadlock Prevention. |
+| 7 | Bellek Yönetimi (Memory) | Adres Uzayları, Paging (Sayfalama) ve Translation Lookaside Buffer. |
 | 8 | ARA DEĞERLENDİRME | (Kernal Status: OK) |
-| 9 | Sanal Bellek (Virtual Memory) | Soyutlamanın gücü ve sınırları. |
-| 10 | Dosya Sistemleri (File Systems) | Veriyi kalıcı kılma disiplini (NTFS, EXT4). |
-| 11 | Giriş/Çıkış (I/O) Sistemleri | Donanım ile senkronizasyon. |
-| 12 | Güvenlik ve İzolasyon | Yetkilendirme ve Kernel zırhı. |
-| 13 | Dağıtık İşletim Sistemleri | Modern bulut dünyasının temelleri. |
-| 14 | Final Mastery Project | Basit bir "Shell" veya "Scheduler" prototipi. |
+| 9 | Sanal Bellek (Virtual Memory) | Demand Paging, Page Fault yönetimi ve Değiştirme (LRU) algoritmaları. |
+| 10 | Dosya Sistemleri (File Systems) | Inodes, VFS (Virtual File System) ve Journaling disiplini. |
+| 11 | Giriş/Çıkış (I/O) Sistemleri | DMA (Direct Memory Access), Interrupts ve Polling mekanizmaları. |
+| 12 | Güvenlik ve İzolasyon | Access Control Lists (ACL) ve Bellek Koruma (Protection Rings). |
+| 13 | Dağıtık İşletim Sistemleri | Remote Procedure Call (RPC) ve Dağıtık Paylaşılan Bellek. |
+| 14 | Final Mastery Project | Basit bir "Shell" (Kabuk) veya "Scheduler" (Zamanlayıcı) prototipi. |
+
+## 🎯 Ustalık Perspektifi (Mastery Perspective)
+
+### 🏢 Sektörel Karşılık
+Bu ders, **Sistem Programlama**, **Siber Güvenlik** (Exploit geliştirme), **Bulut Bilişim Altyapıları** (Hypervisor, Container) ve **Gerçek Zamanlı İşletim Sistemleri (RTOS)** için bir temeldir. Bir çekirdek (kernel) mühendisi, yazılım dünyasının "Master Blacksmith"idir.
+
+### 🤖 Yapay Zeka Sinerjisi (Prompt Örneği)
+> "Linux çekirdeğindeki (kernel) `fork()` sistem çağrısının 'Copy-on-Write' (CoW) mekanizmasını teknik detaylarıyla açıkla. Bu mekanizmanın bellek verimliliğine ve süreç oluşturma hızına etkisini bir senaryo üzerinden kurgula."
+
+### 🚩 Kritik Eşik (The Bottleneck)
+**"Süreç Senkronizasyonu (Critical Section Problem)"** ve **"Sanal Bellek Adresleme"** bu dersin en zorlu ve mühendislik zekasını en çok sınayan bölümleridir. Bu kavramları kod üzerinde ispatlayamayan liyakatini kazanamaz.
