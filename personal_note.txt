@@ -1,0 +1,9 @@
+> [!CAUTION]
+> ###  Arþiv Notu: Bölümü Býrakma Sebeplerim
+> Bu arþiv, akademik bir baþarý hikayesinden ziyade bir " sistem eleþtirisi\ ve kiþisel tarih dökümüdür. Bölümü býrakma kararýmda iki temel olay dönüm noktasý olmuþtur:
+> 1. **Matematik-I Paradoksu:** YouTube üzerinden aldýðým ders notlarýný gören hocanýn, \Sen YouTubedan çalýþarak bu dersi geçemezsin\ diyerek dijital öðrenme çaðýný reddetmesi.
+> 2. **Analog Kodlama:** Veri Yapýlarý dersinde, algoritma ve kodlarýn doðrudan kaðýda (analog þekilde) yazýlmasýnýn dayatýlmasý, yazýlýmýn doðasýna aykýrý bir deðerlendirme sisteminin olmasý.
+>
+> Bu depo, o süreçteki tüm dökümanlarý \nasýl olmamalýydý\ ve \neler öðrenildi\ perspektifiyle saklamaktadýr.
+
+---
