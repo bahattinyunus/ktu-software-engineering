@@ -8,7 +8,7 @@ Bu döküman, KTÜ Yapay Zeka Sonrası Yazılım Mühendisliği Merkezi'nin mima
 
 ### KATMAN 0: TEMEL_MÜFREDAT (BASE_CURRICULUM)
 - **Tanım:** KTÜ Yazılım Mühendisliği resmi müfredatı.
-- **Dosyalama:** \`1_SINIF/\`, \`2_SINIF/\`, vb.
+- **Dosyalama:** \`../0_MUREDDAAT/1_SINIF/\`, \`../0_MUREDDAAT/2_SINIF/\`, vb.
 - **İçerik:** \`Ders_Plani.md\`, \`Teorik_Notlar/\`.
 
 ### KATMAN 1: GÜÇ_ÇARPANI (FORCE_MULTIPLIER)
@@ -27,7 +27,7 @@ Bu döküman, KTÜ Yapay Zeka Sonrası Yazılım Mühendisliği Merkezi'nin mima
 
 1. **İsimlendirme:** Dosya isimleri teknik, açıklayıcı ve disiplin odaklıdır.
 2. **Doğrulama:** Her döküman en az bir AI denetiminden geçmiş ve doğrulanmıştır.
-3. **Sinerji:** Tüm yan dökümanlar (\`KAYNAK_MERKEZI.md\`, \`TEKNOLOJI_YIGINI.md\`) ana müfredatı destekler.
+3. **Sinerji:** Tüm yan dökümanlar (\`../4_SISTEM/KAYNAK_MERKEZI.md\`, \`./TEKNOLOJI_YIGINI.md\`) ana müfredatı destekler.
 
 ---
 

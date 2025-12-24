@@ -6,7 +6,7 @@ Mühendislik yeteneği %50 teknik, %50 ise o yeteneği nasıl sunduğunla ilgili
 
 ## 🏛️ 1. GitHub: Sizin Dijital Tapunuz
 İK yöneticileri diplomaya bakar, teknik liderler GitHub'a bakar.
-- **Temizlik:** Her reposu düzgün bir `README.md` içermelidir.
+- **Temizlik:** Her reposu düzgün bir `../README.md` içermelidir.
 - **Süreklilik:** Sadece bitmiş projeleri değil, öğrenme sürecinizdeki commitleri de paylaşın.
 - **Katkı:** Açık kaynak (Open Source) projelere küçük de olsa katkı verin.
 

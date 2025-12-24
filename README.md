@@ -3,16 +3,16 @@
 # 🛰️ KTÜ YAPAY ZEKA SONRASI STRATEJİK KOMUTA MERKEZİ
 ## ⛩️ "Üstün Mühendislik ve Çok Boyutlu Uzmanlık" ⛩️
 
-[![Tier](https://img.shields.io/badge/SEVIYE-TEKILLIK-red?style=for-the-badge&logo=superman)](./OZET.md)
-[![Protokol](https://img.shields.io/badge/PROTOKOL-OZEL_OPERASYON-black?style=for-the-badge&logo=ghost)](./MIMARI_YAPI.md)
-[![Durum](https://img.shields.io/badge/CANLI_TELEMETRI-OPTIMAL-success?style=for-the-badge&logo=codestats)](./OZET.md)
+[![Tier](https://img.shields.io/badge/SEVIYE-TEKILLIK-red?style=for-the-badge&logo=superman)](./4_SISTEM/OZET.md)
+[![Protokol](https://img.shields.io/badge/PROTOKOL-OZEL_OPERASYON-black?style=for-the-badge&logo=ghost)](./1_DOKTRIN/MIMARI_YAPI.md)
+[![Durum](https://img.shields.io/badge/CANLI_TELEMETRI-OPTIMAL-success?style=for-the-badge&logo=codestats)](./4_SISTEM/OZET.md)
 
 ---
 
 ### 🏛️ DEPO KADERİ (REPOSITORY DESTINY)
 **Bu arşiv; sıradan bir akademik depo değildir. Bu, liyakatin dijital bir kale (Fortress) haline geldiği, müfredatın bir "Temel Katman" (Base Layer) olarak aşılıp, yapay zeka ve mühendislik disipliniyle arşa çıkarıldığı bir "Tekillik" (Singularity) merkezidir.**
 
-[🛰️ Mimari](./MIMARI_YAPI.md) • [📜 Manifesto](./_MANIFESTO/README.md) • [📡 Yol Haritası](./YOL_HARITALARI/README.md) • [📜 Ustalık Logu](./ANA_LOG.md)
+[🛰️ Mimari](./1_DOKTRIN/MIMARI_YAPI.md) • [📜 Manifesto](./1_DOKTRIN/_MANIFESTO/README.md) • [📡 Yol Haritası](./3_KARIYER/YOL_HARITALARI/README.md) • [📜 Ustalık Logu](./4_SISTEM/ANA_LOG.md)
 
 ---
 
@@ -20,16 +20,16 @@
 **Bu depo bir liyakat kalesidir; onu nasıl kullanacağınızı bilin:**
 
 ### 📖 Temel Rehberler
-- **[🧠 Nasıl Çalışmalı?](./NASIL_CALISMALI.md):** Mühendislik disiplini ve öğrenme teknikleri.
-- **[🏗️ Proje Rehberi](./PROJE_REHBERI.md):** Seviye bazlı, sektörel proje fikirleri.
-- **[📡 Kariyer ve Ağ](./KARIYER_VE_AG.md):** Sektörde liyakatini ispatlama ve networking.
-- **[🤝 Mentorluk & İş Birliği](./MENTORLUK_VE_YARDIMLASMA.md):** Kolektif gelişim ve yardımlaşma kuralları.
+- **[🧠 Nasıl Çalışmalı?](./2_USTALIK/NASIL_CALISMALI.md):** Mühendislik disiplini ve öğrenme teknikleri.
+- **[🏗️ Proje Rehberi](./2_USTALIK/PROJE_REHBERI.md):** Seviye bazlı, sektörel proje fikirleri.
+- **[📡 Kariyer ve Ağ](./3_KARIYER/KARIYER_VE_AG.md):** Sektörde liyakatini ispatlama ve networking.
+- **[🤝 Mentorluk & İş Birliği](./3_KARIYER/MENTORLUK_VE_YARDIMLASMA.md):** Kolektif gelişim ve yardımlaşma kuralları.
 
 ### 🏛️ Derinleşme Rehberleri (Instructional)
-- **[📜 Programlama Doktrini](./_REHBERLER/PROGRAMLAMA_DOKTRINI.md):** Temiz kod ve yazılım felsefesi.
-- **[🏗️ Sistem Tasarımı](./_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md):** Mimari düşünce yapısı.
-- **[🤖 AI ile Derin Öğrenme](./_REHBERLER/AI_ILE_DERIN_OGRENME.md):** Yapay zekayı öğretmen olarak kullanma.
-- **[📡 Ustalık Notları (80/20)](./_USTALIK_NOTLARI/README.md):** Kritik konuların can alıcı özetleri.
+- **[📜 Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md):** Temiz kod ve yazılım felsefesi.
+- **[🏗️ Sistem Tasarımı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md):** Mimari düşünce yapısı.
+- **[🤖 AI ile Derin Öğrenme](./2_USTALIK/_REHBERLER/AI_ILE_DERIN_OGRENME.md):** Yapay zekayı öğretmen olarak kullanma.
+- **[📡 Ustalık Notları (80/20)](./2_USTALIK/_USTALIK_NOTLARI/README.md):** Kritik konuların can alıcı özetleri.
 
 ---
 
@@ -75,14 +75,14 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-01:</b> <a href="./1_SINIF/1_Guz/">Algoritma ve Mantık Hackleme</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
-        <li><b>SEC-02:</b> <a href="./1_SINIF/2_Bahar/">Sistem Çekirdek Keşfi</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
+        <li><b>SEC-01:</b> <a href="./0_MUREDDAAT/1_SINIF/1_Guz/">Algoritma ve Mantık Hackleme</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
+        <li><b>SEC-02:</b> <a href="./0_MUREDDAAT/1_SINIF/2_Bahar/">Sistem Çekirdek Keşfi</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-03:</b> <a href="./2_SINIF/3_Guz/">Veri Yapıları Tekilliği</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
-        <li><b>SEC-04:</b> <a href="./2_SINIF/4_Bahar/">Mimari Sağlamlaştırma</a> <br/> <sub><i>"DB ve Sistem mimarisinin inşası."</i></sub></li>
+        <li><b>SEC-03:</b> <a href="./0_MUREDDAAT/2_SINIF/3_Guz/">Veri Yapıları Tekilliği</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
+        <li><b>SEC-04:</b> <a href="./0_MUREDDAAT/2_SINIF/4_Bahar/">Mimari Sağlamlaştırma</a> <br/> <sub><i>"DB ve Sistem mimarisinin inşası."</i></sub></li>
       </ul>
     </td>
   </tr>
@@ -93,14 +93,14 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-05:</b> <a href="./3_SINIF/5_Guz/">Derin Altyapı ve Ağ Uzmanlığı</a> <br/> <sub><i>"İşletim Sistemi ve Ağ katmanlarında hakimiyet."</i></sub></li>
-        <li><b>SEC-06:</b> <a href="./3_SINIF/6_Bahar/">Ölçeklenebilir Tekillik Mimarisi</a> <br/> <sub><i>"Dağıtık sistemlerin tanrısı ol."</i></sub></li>
+        <li><b>SEC-05:</b> <a href="./0_MUREDDAAT/3_SINIF/5_Guz/">Derin Altyapı ve Ağ Uzmanlığı</a> <br/> <sub><i>"İşletim Sistemi ve Ağ katmanlarında hakimiyet."</i></sub></li>
+        <li><b>SEC-06:</b> <a href="./0_MUREDDAAT/3_SINIF/6_Bahar/">Ölçeklenebilir Tekillik Mimarisi</a> <br/> <sub><i>"Dağıtık sistemlerin tanrısı ol."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-07:</b> <a href="./4_SINIF/7_Guz/">Endüstriyel Kalite Kuantumu</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
-        <li><b>SEC-08:</b> <a href="./4_SINIF/8_Bahar/">Final: TEKILLIK_PROJESI</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
+        <li><b>SEC-07:</b> <a href="./0_MUREDDAAT/4_SINIF/7_Guz/">Endüstriyel Kalite Kuantumu</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
+        <li><b>SEC-08:</b> <a href="./0_MUREDDAAT/4_SINIF/8_Bahar/">Final: TEKILLIK_PROJESI</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
       </ul>
     </td>
   </tr>
@@ -112,9 +112,9 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
 
 | Uzmanlık | Odak | Yol Haritası |
 | :--- | :--- | :--- |
-| **Sistem Mimarı** | Mimari ve Düşük Seviye | [🔍 Yolu Keşfet](./YOL_HARITALARI/SYSTEM_ARCHITECT.md) |
-| **Yapay Zeka Çözüm Mühendisi** | AI ve Veri | [🔍 Yolu Keşfet](./YOL_HARITALARI/AI_ENGINEER.md) |
-| **Siber Savunma Lideri** | Savunma ve Ağ | [🔍 Yolu Keşfet](./YOL_HARITALARI/CYBER_DEFENSE.md) |
+| **Sistem Mimarı** | Mimari ve Düşük Seviye | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/SYSTEM_ARCHITECT.md) |
+| **Yapay Zeka Çözüm Mühendisi** | AI ve Veri | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/AI_ENGINEER.md) |
+| **Siber Savunma Lideri** | Savunma ve Ağ | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/CYBER_DEFENSE.md) |
 
 ---
 

@@ -13,7 +13,7 @@ Notlarınızı sadece okumak size "anlama illüzyonu" verir. Gerçek öğrenme, 
 AI kod yazar ama siz o kodu **yazdıktan sonra** ne yapacağınızla mühendis olursunuz.
 - **Hatalı Kullanım:** "Şu problemi çözen kodu yaz."
 - **Mastery Kullanımı:** "Şu kodu yazdım ama neden şu kısımda bellek sızıntısı olabilir? Bana teorik olarak açıkla."
-- **Tashih (Audit):** AI'nın verdiği kodu `TEKNOLOJI_YIGINI.md` kurallarına göre denetleyin.
+- **Tashih (Audit):** AI'nın verdiği kodu `../1_DOKTRIN/TEKNOLOJI_YIGINI.md` kurallarına göre denetleyin.
 
 ## 🏗️ 3. "Project-Based Learning" (Proje Odaklı Öğrenme)
 Bir konuyu en iyi, o konuya ihtiyaç duyduğunuzda öğrenirsiniz.
