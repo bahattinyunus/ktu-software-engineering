@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ YAZILIM MÜHENDİSLİĞİ AKADEMİK KOMUTA VE LİYAKAT MERKEZİ
 ### "Akademik Teori ile Sektörel Gerçekliğin Stratejik Entegrasyonu"
@@ -68,7 +69,7 @@ Müfredat, liyakat odaklı bir perspektifle yeniden kategorize edilmiştir.
 
 ## 📊 VİZYONER GELİŞİM ŞEMASI (EXCELLENCE FLOW)
 
-```mermaid
+\`\`\`mermaid
 graph LR
     A[Müfredat Teorisi] --> B{Entegrasyon}
     B -- "Sadece Teori" --> C[Akademik Bilgi]
@@ -81,7 +82,7 @@ graph LR
     
     style D fill:#f1f8e9,stroke:#33691e,stroke-width:2px
     style F fill:#e3f2fd,stroke:#0d47a1,stroke-width:3px
-```
+\`\`\`
 
 ---
 
@@ -91,8 +92,9 @@ graph LR
 
 <div align="right">
   
-`STATUS: PROFESSIONAL_SYNC_COMPLETE`  
-`VIBE: OBJECTIVE_EXCELLENCE`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: PROFESSIONAL_SYNC_COMPLETE\`  
+\`VIBE: OBJECTIVE_EXCELLENCE\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');
