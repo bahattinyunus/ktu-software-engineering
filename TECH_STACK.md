@@ -1,29 +1,26 @@
-# 🛠️ TEKNOLOJİ STANDARTLARI (TECH-STACK)
+# 🛠️ DİSİPLİN STANDARTLARI (ENGINEERING STANDARDS)
 
-Bu repo kapsamında paylaşılan tüm uygulama kodları, aşağıdaki modern standartları takip etmelidir.
-
----
-
-## 💻 1. Diller & Frameworkler
-- **Temel Programlama (1. Sınıf):** C (ISO C99+) - Kağıt üzerine değil, derlenebilir temiz kod.
-- **Nesne Yönelimli (2. Sınıf):** C# (.NET 8+) veya Java (JDK 21+).
-- **Web (3. Sınıf):** React (Frontend) & Node.js (Backend).
-- **AI & Veri (Seçmeli):** Python 3.10+.
-
-## ⚙️ 2. Araçlar (DevOps & Tools)
-- **Version Control:** Git (Her ders klasörü bir repo disiplininde olmalı).
-- **Build Tools:** CMake (C için) / NuGet (C#) / NPM (JS).
-- **Containerization:** Projelerin her ortamda aynı çalışması için Docker tercih edilmelidir.
-- **Documentation:** Markdown & Mermaid.js.
-
-## 📐 3. Kod Kalitesi (Clean Code)
-- **Naming:** `PascalCase` sınıflar, `camelCase` değişkenler.
-- **Complexity:** Bir metot/fonksiyon 30 satırdan uzun olmamalı (Separation of Concerns).
-- **Testing:** Tüm mantıksal fonksiyonların en az bir Unit Testi olmalı.
-
-## 🤖 4. AI Entegrasyonu (Cursor/Copilot)
-- Kod yazdırmak için AI kullanmak serbesttir, ancak AI'nın yazdığı her satırı **açıklayabilmek** zorunludur.
-- AI ile üretilen kodlar `@AI-Generated` etiketiyle işaretlenebilir.
+Bu rehber, bir mühendisin liyakatini inşa ederken takip etmesi gereken disiplinli çalışma standartlarını belirler. Diploma kaygısından arınmış bir "Mastery" yolculuğu için bu kurallar esastır.
 
 ---
-`SİSTEM GÜNCELLEMESİ: MODERN_STANDARTLAR_AKTİF`
+
+## 💻 1. Geliştirme Disiplini
+- **Executable Knowledge:** Öğrenilen her teorik bilgi, çalışan bir kod parçasına (Lab/Uygulama) dönüştürülmelidir.
+- **Git Mastery:** Her değişim anlamlı commit mesajlarıyla belgelenmeli, süreç `git log`lar ile ispatlanmalıdır.
+- **Terminal Focus:** Mühendis, arayüzlerin ötesindeki sistemlere (CLI) hakim olmalıdır.
+
+## ⚙️ 2. Teknoloji Seçimi (Stack)
+- **Problem-Driven:** Teknoloji bir moda değil, bir araçtır. Problemi en disiplinli çözecek "Stack" seçilir.
+- **Modern Standards:** C (ISO C23), Java/C# (Modern LTS), Python (Latest Stable), Node.js (Stable).
+
+## 📐 3. Kalite Disiplini (The Craft)
+- **SOLID & Design Patterns:** Kod sadece çalışmamalı, profesyonelce tasarlanmalıdır.
+- **Testing Mastery:** Test yazılmamış kod, henüz "var olmamış" koddur.
+- **Documentation:** `README` ve `Inline Comments`, kodun bir parçasıdır.
+
+## 🤖 4. AI-Human Collaboration
+- **Auditor Mindset:** AI kod yazabilir ama mühendis o kodun her byte'ından sorumludur.
+- **Prompting as Logic:** AI'ya verilen komutlar, mühendisin sistem üzerindeki mantıksal hakimiyetini yansıtmalıdır.
+
+---
+`DURUM: DİSİPLİN_ANA_YASASI_AKTİF`

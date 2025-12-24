@@ -1,25 +1,24 @@
-﻿# 🌐 Web Programlama (Full-Stack Warfare)
+﻿# 🌐 Web Programlama: Dağıtık Sistem Disiplini (Ders Planı)
 
 ## 📊 Stratejik Bilgiler
-- **Ders Kodu:** YZM 3005
-- **AKTS:** 5
-- **Misyon:** İnternet üzerindeki her türlü etkileşimin mimarını olmak.
+- **Misyon:** İnternet üzerindeki her türlü etkileşimin mimari disiplinini kavramak ve ölçeklenebilir web sistemleri inşa etmek.
+- **Mastery Hedefi:** Sadece sayfa yapmak değil, dünya genelinde erişilebilir, güvenli ve yüksek performanslı full-stack sistemler yönetmek.
 
-## 📅 Operasyonel Akış
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Cephe | Teknoloji & Mimari |
+| Hafta | Cephe | Teknoloji & Mimari Disiplin |
 | :--- | :--- | :--- |
-| 1 | Web Protokolleri | HTTP/HTTPS, Statik vs Dinamik sayfalar. |
-| 2 | Modern HTML5 & SEO | Semantik yapı ve meta veri stratejisi. |
-| 3 | Responsive Design (CSS3) | Flexbox, Grid ve CSS Variables. |
-| 4 | JavaScript Engine (V8) | DOM manipülasyonu ve Event Loop. |
-| 5 | Asenkron Programlama | Promises, Async/Await ve Fetch API. |
-| 6 | Frontend Frameworkler (Giriş) | React / Vue / Svelte ekosistemleri. |
-| 7 | Backend Temelleri (Node.js) | Express.js ve Middleware mantığı. |
-| 8 | ARA SINAV | (Yayına Hazır) |
-| 9 | RESTful API Tasarımı | CRUD operasyonları ve JWT güvenliği. |
-| 10 | Veritabanı Entegrasyonu | ORM/ODM (Prisma, Mongoose) kullanımı. |
-| 11 | State Management | Redux / Context API veya Zustand. |
-| 12 | Real-time Web | WebSockets (Socket.io) ile canlı veri. |
-| 13 | Deployment & DevOps | Dockerize etme ve Vercel/DigitalOcean. |
-| 14 | Proje Sunumu | Full-stack çalışan bir web uygulaması. |
+| 1 | Web Protokolleri Disiplini | HTTP/3, WebSockets ve veri iletim temelleri. |
+| 2 | Semantik Mimari (HTML5) | Erişilebilirlik ve SEO'nun mühendislik boyutu. |
+| 3 | Görsel Sistem Tasarımı (CSS3) | Design Systems ve Layout disiplini (Grid/Flex). |
+| 4 | JavaScript Engine (V8) | Bellek yönetimi, Event Loop ve JS disiplini. |
+| 5 | Asenkron Mühendislik | Promises ve gerçek zamanlı veri akış yönetimi. |
+| 6 | Modern Frontend Disiplini | Component-Based Architecture (React/Vue). |
+| 7 | Server-Side Disiplini (Node.js) | Event-driven mimari ve verimlilik. |
+| 8 | ARA DEĞERLENDİRME | (Web System Status: ONLINE) |
+| 9 | API Tasarım Disiplini | REST, GraphQL ve dokümantasyon (Swagger). |
+| 10 | Veri Kalıcılığı (Database) | NoSQL/SQL entegrasyonu ve ORM disiplini. |
+| 11 | State Management | Karmaşık veri durumlarını merkezi yönetme. |
+| 12 | Güvenlik Disiplini | OWASP Top 10 ve JWT/OAuth entegrasyonu. |
+| 13 | Deployment & Cloud Native | Dockerize etme ve CI/CD otomasyonu. |
+| 14 | Final Mastery Project | Canlı yayına alınmış, tam ölçekli bir web ürünü. |

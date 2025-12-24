@@ -1,25 +1,24 @@
-﻿# 🧠 İşletim Sistemleri (OS Battle Plan)
+﻿# 🧠 İşletim Sistemleri: Çekirdek Hakimiyeti (OS Battle Plan)
 
 ## 📊 Stratejik Bilgiler
-- **Ders Kodu:** YZM 3001
-- **AKTS:** 6
-- **Misyon:** Bilgisayarın ruhunu (çekirdek) anlamak ve donanımı yönetmek.
+- **Misyon:** Bilgisayarın ruhunu (çekirdek) anlamak, donanımı yönetmek ve en alt seviyede sistem disiplini kazanmak.
+- **Mastery Hedefi:** Bir işletim sisteminin nasıl nefes aldığını kavramak ve kendi sistemleriniz için çekirdek seviyesinde optimizasyon yapabilmek.
 
-## 📅 Operasyonel Akış
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Konu | AI-Era Bakış Açısı |
+| Hafta | Konu | Çekirdek Disiplini |
 | :--- | :--- | :--- |
-| 1 | OS Giriş & Tarihçe | Monolitik vs Microkernel mimariler. |
-| 2 | Sistem Çağrıları (System Calls) | AI ile C/Assembly seviyesinde syscall analizi. |
-| 3 | Süreç Yönetimi (Process Mgmt) | Çoklu görev (Multitasking) ve zamanlama. |
-| 4 | İş Parçacıkları (Threads) | Paralel programlama ve race condition simülasyonu. |
-| 5 | CPU Zamanlama Algoritmaları | FCFS, RR, Priority (AI ile verimlilik analizi). |
-| 6 | Senkronizasyon | Mutex, Semaphore ve Deadlock (Kağıtta değil, kodda çözüm!). |
-| 7 | Bellek Yönetimi | Sayfalama (Paging) ve Segmentasyon. |
-| 8 | ARA SINAV | (Sisteme Giriş) |
-| 9 | Sanal Bellek | Virtual Memory ve Disk swapping. |
-| 10 | Dosya Sistemleri | NTFS, EXT4 mimarileri. |
-| 11 | Giriş/Çıkış (I/O) Sistemleri | Kesme (Interrupt) yönetimi ve DMA. |
-| 12 | Güvenlik ve Koruma | Yetkilendirme ve Kernel güvenliği. |
-| 13 | Dağıtık Sistemler | Modern cloud mimarilerine giriş. |
-| 14 | Vaka Analizleri | Linux vs Windows Kernel mimari savaşı. |
+| 1 | OS Giriş & Mimari Disiplin | Monolitik vs Microkernel (Stratejik seçimler). |
+| 2 | Sistem Çağrıları (System Calls) | Çekirdek ile doğrudan konuşma sanatı. |
+| 3 | Süreç Yönetimi (Process Mgmt) | Yaşam döngüsü ve kontrol disiplini. |
+| 4 | İş Parçacıkları (Threads) | Paralel dünyanın kuralları ve çatışma yönetimi. |
+| 5 | CPU Zamanlama (Scheduling) | Kaynakları en adil ve hızlı yönetme disiplini. |
+| 6 | Senkronizasyon & Locklar | Mutex, Semaphore ve Deadlock (Kağıtta değil, kolda!). |
+| 7 | Bellek Yönetimi (Memory) | Paging ve Segmentasyon (Fiziksel hakikat). |
+| 8 | ARA DEĞERLENDİRME | (Kernal Status: OK) |
+| 9 | Sanal Bellek (Virtual Memory) | Soyutlamanın gücü ve sınırları. |
+| 10 | Dosya Sistemleri (File Systems) | Veriyi kalıcı kılma disiplini (NTFS, EXT4). |
+| 11 | Giriş/Çıkış (I/O) Sistemleri | Donanım ile senkronizasyon. |
+| 12 | Güvenlik ve İzolasyon | Yetkilendirme ve Kernel zırhı. |
+| 13 | Dağıtık İşletim Sistemleri | Modern bulut dünyasının temelleri. |
+| 14 | Final Mastery Project | Basit bir "Shell" veya "Scheduler" prototipi. |

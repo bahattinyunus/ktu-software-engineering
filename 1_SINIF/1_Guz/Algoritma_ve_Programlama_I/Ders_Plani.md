@@ -1,26 +1,24 @@
-﻿# 💻 Algoritma ve Programlama I (Ders Planı)
+﻿# 💻 Algoritma I: Mantıksal Düşünme Disiplini (Ders Planı)
 
 ## 📊 Genel Bilgiler
-- **Ders Kodu:** YZM 1003
-- **AKTS Kavramı:** 5
-- **Saat:** 3+1 (Teorik + Uygulama)
-- **Öğrenim Çıktısı:** Temel algoritma mantığı ve C programlama diline giriş.
+- **Misyon:** Kod yazmadan önce düşünmeyi, problem çözme sanatını (algoritma disiplini) kavramak.
+- **Mastery Hedefi:** Herhangi bir dilden bağımsız olarak çözüm mimarisi kurabilme yetisi.
 
-## 📅 Haftalık İzleme Tablosu
+## 📅 Operasyonel Akış (Disiplin Odaklı)
 
-| Hafta | Konu Başlığı | Detaylar |
+| Hafta | Konu | Mastery Eylemi |
 | :--- | :--- | :--- |
-| 1 | Algoritma ve Akış Diyagramları | Algoritma kavramı, değişkenler, akış şeması çizimi. |
-| 2 | C Programlama Giriş | `printf`, `scanf`, veri tipleri (`int`, `float`, `char`). |
-| 3 | Operatörler | Aritmetik, mantıksal ve karşılaştırma operatörleri. |
-| 4 | Karar Yapıları - I | `if-else` yapısı ve iç içe kontroller. |
-| 5 | Karar Yapıları - II | `switch-case` kullanımı ve break mekanizması. |
-| 6 | Döngü Yapıları - I | `for` döngüsü ve döngü optimizasyonu. |
-| 7 | Döngü Yapıları - II | `while` ve `do-while` döngüleri. |
-| 8 | ARA SINAV (Vize) | İlk 7 haftanın değerlendirilmesi. |
-| 9 | Fonksiyonlara Giriş | Parametre aktarımı, `return` mekanizması. |
-| 10 | Diziler (Arrays) | Tek boyutlu diziler ve bellek yönetimi. |
-| 11 | Çok Boyutlu Diziler | Matris işlemleri ve dizi uygulamaları. |
-| 12 | Karakter Katarları (Strings) | `string.h` kütüphanesi ve karakter işlemleri. |
-| 13 | Göstericiler (Pointers) | Pointer mantığı ve adres işlemleri. |
-| 14 | Yapılar (Structs) | Kendi veri tiplemizi oluşturma. |
+| 1 | Algoritma ve Problem Çözme Disiplini | Sorunu atomlarına ayırma analizi. |
+| 2 | Değişkenler ve Bellek Yönetimi Giriş | Bellekte verinin nasıl "yaşadığını" anlama. |
+| 3 | Karar Yapıları (Control Flow) | Mantıksal dallanma ve olasılık yönetimi. |
+| 4 | Döngüler (Iterative Logic) | Verimlilik odaklı tekrarlı işlemler. |
+| 5 | Diziler ve Statik Bellek | Verinin kümelenme disiplini. |
+| 6 | Fonksiyonlar ve Modülerlik | "Divide and Conquer" (Böl ve Yönet) felsefesi. |
+| 7 | Rekürsiyon (Özyineleme) | Karmaşık sorunlara zarif çözümler. |
+| 8 | ARA DEĞERLENDİRME | (Disiplin Check-point) |
+| 9 | Göstericiler (Pointers) - Saf Güç | Donanım ve yazılımın kesişim kümesi. |
+| 10 | Karakter Dizileri ve String İşleme | Verinin metne dönüşme disiplini. |
+| 11 | Yapılar (Structs) | Kendi veri kalıplarını yaratma. |
+| 12 | Dosya İşlemleri | Kalıcı liyakat (Veriyi saklama). |
+| 13 | Algoritma Karmaşıklığı (Big O) | Hız ve performansın matematiği. |
+| 14 | Final Mastery Projesi | Uçtan uca çalışan bir çözüm mimarisi. |

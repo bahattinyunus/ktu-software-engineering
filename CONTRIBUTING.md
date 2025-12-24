@@ -1,33 +1,29 @@
-# 🦅 İsyan'a Katıl: Katkı Rehberi (CONTRIBUTING)
+# 🦅 Liyakat Paylaşımı: Katkı Disiplini (MASTERY SHARING)
 
-Bu repo, kağıda hapsedilen mühendisliği özgürleştirmek için kuruldu. Eğer sen de bu isyanın bir parçası olmak istiyorsan, işte yapabileceklerin:
+Bu depo, diplomanın ötesini hedefleyen mühendislerin ortak liyakat kalesidir. Katkılarınız, bu disiplini yaymak için en güçlü silahtır.
 
 ---
 
 ## 🚀 Nasıl Katkı Sağlarsın?
 
-### 1. Ders Notlarını Dijitalleştir
-Elindeki analog (kağıt) notları, modern Markdown formatına çevirerek ilgili dersin `Teorik_Notlar/` klasörüne ekle. **Unutma: Kağıt geçicidir, Repo kalıcıdır.**
+### 1. Disiplini Belgele (Eğitim Modülleri)
+Derslerde anlatılanların ötesine geçen, gerçek dünya mimarilerini ve AI entegrasyonlarını içeren notlarını `Teorik_Notlar/` klasörüne ekle. 
 
-### 2. Uygulama Kodu Paylaş
-Laboratuvarlarda kağıda yazman istenen kodları, çalışan birer proje haline getirip `Uygulamalar/` klasörüne yükle. Kodunun temiz, dökümante edilmiş ve executable olması şarttır.
+### 2. Uygulama ile İspatla (Labs)
+"Kağıt üzerindeki kod geçersizdir" prensibiyle, çalışan, test edilmiş ve dökümante edilmiş laboratuvar projelerini `Uygulamalar/` altına gönder.
 
-### 3. Kaynak Önerileri
-Sistemin "öğrenemezsin" dediği ama senin ufkunu açan YouTube kanallarını, blogları veya ücretsiz kursları `RESOURCES_HUB.md` dosyasına ekle.
+### 3. Mastery Kaynakları
+Mühendislik disiplinini pekiştiren, ufuk açan her türlü dijital kaynağı `RESOURCES_HUB.md` dosyasına ekle.
 
-### 4. AI Çalışma Rehberini Geliştir
-Kendi çalışma düzeninde AI'yı nasıl kullandığını, hangi promptların işe yaradığını `AI_ERA_GUIDE.md` dosyasına ekleyerek diğer arkadaşlarına ışık tut.
-
----
-
-## 🛠️ Teknik Standartlar
-- **Dosya Adlandırma:** Türkçe karakter içermeyen, alt tire (_) ile ayrılmış standart isimler kullanın. (Örn: `Hafta_01_Giris.md`)
-- **İçerik Dili:** Akademik derinliği olan ama isyankar bir tonu tercih edin.
-- **Pull Request:** Yaptığın değişikliği kısa ve öz bir şekilde açıklayan bir PR oluştur.
+### 4. AI-Native Stratejiler
+AI araçlarını mühendislik disiplinine nasıl entegre ettiğini, yeni "Prompting" tekniklerini `AI_ERA_GUIDE.md` üzerinden paylaş.
 
 ---
 
-## 🛰️ İletişim & Komutanlık
-Bu repo hepimizin! Bir sistem hatası gördüğünde Issue açmaktan veya bir geliştirme fikrin olduğunda tartışma başlatmaktan çekinme.
+## 🛠️ Teknik Liyakat Şartları
+- **Dürüstlük:** Katkıların tamamen anlaşılmış ve dökümante edilmiş olması gerekir.
+- **Standartlar:** `TECH_STACK.md` (Disiplin Kanunu) içerisindeki kurallara mutlak uyum.
+- **Vizyon:** Sınav odaklı değil, her zaman **Mastery (Ustalık)** odaklı içerikler üretilmelidir.
 
-**Unutma Mühendis: Sen bir operatör değil, bir yaratıcısın!**
+---
+> "Paylaşılan her bilgi, kolektif bir disiplinin parçasıdır."

@@ -1,27 +1,24 @@
-﻿# 📊 Veri Yapıları (Ders Planı)
+﻿# 🗄️ Veri Yapıları: Optimizasyon Disiplini (Ders Planı)
 
 ## 📊 Genel Bilgiler
-- **Ders Kodu:** YZM 2001
-- **AKTS:** 6
-- **Saat:** 3+1
-- **Dil:** Türkçe
-- **Öğrenim Çıktısı:** Verilerin bellekte organize edilme biçimleri ve algoritma karmaşıklığı.
+- **Misyon:** Veriyi sadece saklamayı değil, en verimli (hız ve alan) şekilde yönetme disiplini kazanmak.
+- **Mastery Hedefi:** Karmaşık sistemlerin bellek mimarisini kurgulayabilmek.
 
-## 📅 Haftalık İzleme Tablosu
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Konu |
-| :--- | :--- |
-| 1 | Giriş: Veri Yapısı ve Soyut Veri Tipleri |
-| 2 | Algoritma Analizi: Big O Notasyonu |
-| 3 | Diziler ve Bellek Yönetimi (Statik vs Dinamik) |
-| 4 | Bağlı Listeler (Linked Lists) - Tek Yönlü |
-| 5 | Bağlı Listeler - Çift Yönlü ve Dairesel |
-| 6 | Yığınlar (Stacks): LIFO Mantığı |
-| 7 | Kuyruklar (Queues): FIFO Mantığı |
-| 8 | ARA SINAV |
-| 9 | Ağaç Yapıları (Trees): İkili Arama Ağaçları |
-| 10 | Dengeli Ağaçlar (AVL, Red-Black Trees) |
-| 11 | Hash Tabloları: Çakışma Çözümleri |
-| 12 | Graflar (Graphs): DFS ve BFS Algoritmaları |
-| 13 | Sıralama Algoritmaları (Quick, Merge, Heap Sort) |
-| 14 | Arama Algoritmaları ve Genel Tekrar |
+| Hafta | Konu | Mastery Çıktısı |
+| :--- | :--- | :--- |
+| 1 | Veri Yapılarına Giriş ve Disiplin | Neden veri yapıları? (Sistem performansı). |
+| 2 | Big O Analizi ve Performans Ölçümü | Algoritmanın liyakatini matematiksel ispatlamak. |
+| 3 | Diziler ve Dinamik Bellek Yönetimi | `malloc`, `free` ve bellek disiplini. |
+| 4 | Bağlı Listeler (Linked Lists) - Esneklik | Dinamik veri akışlarını yönetme. |
+| 5 | Stack (Yığın) ve Queue (Kuyruk) | LIFO/FIFO disiplinleri ve kullanım alanları. |
+| 6 | Rekürsiyon ve Veri Yapıları | Öz yinelemeli veri işleme sanatı. |
+| 7 | Sıralama Algoritmaları (Sorting) | Veriyi düzene sokma disiplini. |
+| 8 | ARA DEĞERLENDİRME | (Performans Testi) |
+| 9 | Arama Algoritmaları ve Hashing | Veriye en hızlı ulaşma stratejileri. |
+| 10 | Ağaç Yapıları (Trees) - Hiyerarşi | Binary Search Tree ve dengeleme (AVL). |
+| 11 | Öncelik Kuyrukları ve Heap | En önemliye odaklanma disiplini. |
+| 12 | Graf Yapıları (Graphs) - Ağlar | Karmaşık ilişkileri modelleme. |
+| 13 | Dinamik Programlama Giriş | Alt problemlerin çözümüyle büyük zaferler. |
+| 14 | Final Mastery Challenge | Bir sistemin bellek ve hız optimizasyonu. |

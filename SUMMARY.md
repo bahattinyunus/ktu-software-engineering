@@ -8,11 +8,11 @@
 
 | Katman | Durum | Doluluk |
 | :--- | :--- | :--- |
-| **Repo Mimarisi** | `GOD_MODE` | 100% |
-| **1. Sınıf Modülleri** | `DRAFTING` | 65% |
-| **2. Sınıf Modülleri** | `DRAFTING` | 60% |
-| **3. Sınıf Modülleri** | `DRAFTING` | 55% |
-| **4. Sınıf Modülleri** | `DRAFTING` | 50% |
+| **Prensip & Vizyon** | `MASTERY` | 100% |
+| **Disiplin Katmanı 1** | `MASTERY_INIT` | 75% |
+| **Disiplin Katmanı 2** | `MASTERY_INIT` | 70% |
+| **Disiplin Katmanı 3** | `MASTERY_INIT` | 65% |
+| **Disiplin Katmanı 4** | `MASTERY_INIT` | 60% |
 
 ## 🛠️ TEKNOLOJİK ALTYAPI
 
