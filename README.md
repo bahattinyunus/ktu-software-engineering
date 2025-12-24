@@ -1,67 +1,69 @@
-<div align=" center\>
+<div align="center">
 
-# KTÜ YAZILIM MÜHENDİSLİĞİ AKADEMİK KOMUTA MERKEZİ
-### \Veni Vidi Codice\ Karadeniz Teknik Üniversitesi Of Teknoloji Fakültesi
+# ğŸ›ï¸ KTÃœ YAZILIM MÃœHENDÄ°SLÄ°ÄÄ° AKADEMÄ°K KOMUTA MERKEZÄ°
+### "Liyakat KaÄŸÄ±tta DeÄŸil, Repo'dadÄ±r" â€” Meritocratic Academic Archive
 
-[![Elite Status](https://img.shields.io/badge/ARCHIVE-ELITE-blueviolet?style=for-the-badge&logo=codestats)](https://github.com/bahattinyunus)
-[![University](https://img.shields.io/badge/KTÜ-PLATINUM-blue?style=for-the-badge&logo=google-scholar)](https://www.ktu.edu.tr)
-[![Year](https://img.shields.io/badge/Academic_Cycle-2025-orange?style=for-the-badge&logo=target)](https://katalog.ktu.edu.tr)
-[![Quality](https://img.shields.io/badge/Quality-Verified-success?style=for-the-badge&logo=checkmarx)](https://github.com/bahattinyunus)
-
----
-
-> [!CAUTION]
-> ### Arşiv Notu: Bölümü Bırakma Sebeplerim
-> Bu arşiv, akademik bir başarı hikayesinden ziyade bir \sistem eleştirisi\ ve kişisel tarih dökümüdür. Bölümü bırakma kararımda iki temel olay dönüm noktası olmuştur:
-> 1. **Matematik-I Paradoksu:** YouTube üzerinden aldığım ders notlarını gören hocanın, \Sen YouTubedan çalışarak bu dersi geçemezsin\ diyerek dijital öğrenme çağını reddetmesi.
-> 2. **Analog Kodlama:** Veri Yapıları dersinde, algoritma ve kodların doğrudan kağıda (analog şekilde) yazılmasının dayatılması, yazılımın doğasına aykırı bir değerlendirme sisteminin olması.
->
-> Bu depo, o süreçteki tüm dökümanları \nasıl olmamalıydı\ ve \neler öğrenildi\ perspektifiyle saklamaktadır.
+[![Elite Status](https://img.shields.io/badge/ARCHIVE-ELITE_MERIT-blueviolet?style=for-the-badge&logo=codestats)](./medium.md)
+[![Philosophy](https://img.shields.io/badge/VISION-Real_Engineering-orange?style=for-the-badge&logo=target)](./medium.md)
+[![Quality](https://img.shields.io/badge/Quality-Beyond_GPA-success?style=for-the-badge&logo=checkmarx)](https://github.com/bahattinyunus)
 
 ---
 
-[?? Tüm Arşivi Gez](#-akademik-dashboard) • [?? İlerlemeyi Gör](#-akademik-yol-haritası) • [?? Hızlı Bağlantılar](#-operasyonel-linkler)
+**Bu arÅŸiv, sadece sÄ±navlarÄ± geÃ§mek iÃ§in deÄŸil, mÃ¼hendisliÄŸi "geÃ§mek" ve Milli Teknoloji Hamlesi vizyonuna gerÃ§ek katkÄ± saÄŸlamak amacÄ±yla oluÅŸturulmuÅŸtur.**
+
+[ğŸ“– Manifestoyu Oku](./medium.md) â€¢ [ğŸ“ Akademik Dashboard](#-akademik-dashboard) â€¢ [ğŸ“Š Ä°lerlemeyi GÃ¶r](#-akademik-yol-haritasÄ±)
 
 </div>
 
 ---
 
-## ??? AKADEMİK DASHBOARD (CURRICULUM)
+> [!CAUTION]
+> ### âš ï¸ ArÅŸiv Notu: Neden BuradayÄ±z? (Sistem EleÅŸtirisi)
+> Bu depo, akademik baÅŸarÄ± illÃ¼zyonuna (GPA) karÅŸÄ±, gerÃ§ek mÃ¼hendislik yetkinliÄŸini (Repo) savunan bir baÅŸvuru noktasÄ±dÄ±r. BÃ¶lÃ¼mÃ¼ bÄ±rakma ve bu arÅŸivi "dondurma" kararÄ±mÄ±n arkasÄ±ndaki teknik buglar:
+> 1. **Matematik-I Paradoksu:** Dijital Ã¶ÄŸrenme kaynaklarÄ±nÄ±n (YouTube vb.) akademik otorite tarafÄ±ndan reddedilmesi.
+> 2. **Analog Kodlama DramÄ±:** Veri YapÄ±larÄ± gibi kritik derslerin kaÄŸÄ±t Ã¼zerinde, yazÄ±lÄ±mÄ±n doÄŸasÄ±na aykÄ±rÄ± ÅŸekilde Ã¶lÃ§Ã¼lmesi.
+> 3. **Pre-AI MÃ¼fredat:** SektÃ¶rÃ¼n aylÄ±k periyotlarla deÄŸiÅŸtiÄŸi Ã§aÄŸda, yÄ±llanmÄ±ÅŸ mÃ¼fredatlara hapsolmayÄ± reddediÅŸ.
+
+---
+
+## ğŸ–¥ï¸ AKADEMÄ°K DASHBOARD (BEYOND CURRICULUM)
+
+Bu dashboard, KTÃœ mÃ¼fredatÄ±nÄ± (PID: 2615) sadece birer basamak olarak gÃ¶rÃ¼r ve Ã¼zerine gerÃ§ek dÃ¼nya projelerini inÅŸa etmeyi hedefler.
 
 <table width="100%">
   <tr>
-    <th width="50%" align="center">?? 1. SINIF: TEMELLER (FOUNDATION)</th>
-    <th width="50%" align="center">?? 2. SINIF: DERİNLEŞME (DEEP DIVE)</th>
+    <th width="50%" align="center">ğŸŸ¦ 1. SINIF: TEMELLER (FOUNDATION)</th>
+    <th width="50%" align="center">ğŸŸ© 2. SINIF: DERÄ°NLEÅME (DEEP DIVE)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>1. GÜZ:</b> <a href="./1_SINIF/1_Guz/">Keşif & Giriş</a></li>
-        <li><b>2. BAHAR:</b> <a href="./1_SINIF/2_Bahar/">Algoritmik Evrim</a></li>
+        <li><b>1. GÃœZ:</b> <a href="./1_SINIF/1_Guz/">KeÅŸif & GiriÅŸ</a> <br/> <sub><i>Hedef: Algoritmik disiplin.</i></sub></li>
+        <li><b>2. BAHAR:</b> <a href="./1_SINIF/2_Bahar/">Algoritmik Evrim</a> <br/> <sub><i>Hedef: C ile donanÄ±m kontrolÃ¼.</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>3. GÜZ:</b> <a href="./2_SINIF/3_Guz/">Veri & Mantık Mimarisi</a></li>
-        <li><b>4. BAHAR:</b> <a href="./2_SINIF/4_Bahar/">Sistem & Veritabanı</a></li>
+        <li><b>3. GÃœZ:</b> <a href="./2_SINIF/3_Guz/">Veri & MantÄ±k</a> <br/> <sub><i>Hedef: GerÃ§ek veri mimarileri.</i></sub></li>
+        <li><b>4. BAHAR:</b> <a href="./2_SINIF/4_Bahar/">Sistem & VeritabanÄ±</a> <br/> <sub><i>Hedef: Ã–lÃ§eklenebilir sistemler.</i></sub></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <th width="50%" align="center">?? 3. SINIF: UZMANLIK (SPECIALIZATION)</th>
-    <th width="50%" align="center">?? 4. SINIF: MAESTRO (MASTERY)</th>
+    <th width="50%" align="center">ğŸŸ¨ 3. SINIF: UZMANLIK (SPECIALIZATION)</th>
+    <th width="50%" align="center">ğŸŸ¥ 4. SINIF: MAESTRO (MASTERY)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>5. GÜZ:</b> <a href="./3_SINIF/5_Guz/">OS & Network Katmanı</a></li>
-        <li><b>6. BAHAR:</b> <a href="./3_SINIF/6_Bahar/">Yazılım Tasarımı</a></li>
+        <li><b>5. GÃœZ:</b> <a href="./3_SINIF/5_Guz/">OS & Network</a></li>
+        <li><b>6. BAHAR:</b> <a href="./3_SINIF/6_Bahar/">YazÄ±lÄ±m TasarÄ±mÄ±</a></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>7. GÜZ:</b> <a href="./4_SINIF/7_Guz/">Kalite & Yönetim</a></li>
-        <li><b>8. BAHAR:</b> <a href="./4_SINIF/8_Bahar/">Final: Bitirme Projesi</a></li>
+        <li><b>7. GÃœZ:</b> <a href="./4_SINIF/7_Guz/">Kalite & YÃ¶netim</a></li>
+        <li><b>8. BAHAR:</b> <a href="./4_SINIF/8_Bahar/">Final: Mastery Projesi</a></li>
       </ul>
     </td>
   </tr>
@@ -69,56 +71,43 @@
 
 ---
 
-## ?? AKADEMİK YOL HARİTASI (ROADMAP)
+## ğŸ“Š AKADEMÄ°K YOL HARÄ°TASI & VÄ°ZYON
 
 ```mermaid
 graph LR
-    subgraph "YIL 1"
-    G1[Giriş] --> B1[Algoritma]
+    subgraph "DÄ°JÄ°TAL Ã–ÄRENME"
+    YT[YouTube/Self-Study] --> R1[GerÃ§ek Bilgi]
     end
-    subgraph "YIL 2"
-    B1 --> G2[Veri Yapıları]
-    G2 --> B2[Veritabanı]
+    subgraph "AKADEMÄ°K KATMAN"
+    G1[MÃ¼fredat] --> B1[GPA OdaklÄ±lÄ±k]
     end
-    subgraph "YIL 3"
-    B2 --> G3[İşletim Sis.]
-    G3 --> B3[Mimariler]
-    end
-    subgraph "YIL 4"
-    B3 --> G4[Proje Yönetimi]
-    G4 --> FIN[MEZUNİYET]
-    end
+    R1 --> REPO[GÄ°THUB REPOSU]
+    B1 --> PAPER[KAÄIT ÃœSTÃœ BÄ°LGÄ°]
     
-    style G1 fill:#e1f5fe,stroke:#01579b
-    style FIN fill:#f3e5f5,stroke:#4a148c
+    REPO --> IMPACT[Milli Teknoloji Hamlesi]
+    PAPER --> OBSOLETE[AtÄ±l Bilgi]
+    
+    style REPO fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style IMPACT fill:#f3e5f5,stroke:#4a148c,stroke-width:4px
+    style PAPER fill:#ffebee,stroke:#b71c1c
 ```
 
 ---
 
-## ??? STRATEJİK BİLGİ DİREKLERİ
+## ğŸ›ï¸ LÄ°YAKAT VE Ã–LÃ‡ME STANDARTLARI
 
-| Kategori | İçerik Standardı | Hedef |
+| Standart | Akademik Beklenti | **Elite ArÅŸiv Hedefi** |
 | :--- | :--- | :--- |
-| **?? Teorik Notlar** | LaTeX & Markdown harmanı | Sıfır Bilgi Kaybı |
-| **?? Uygulamalar** | Temiz & Dokümante edilmiş kod | Uygulamalı Beceri |
-| **?? Kaynaklar** | IEEE & ACM Standartlarında Makaleler | Akademik Derinlik |
-
----
-
-## ??? OPERASYONEL LİNKLER
-
-<div align="center">
-
-[KTÜ Bilgi Paketi](https://katalog.ktu.edu.tr) | [Of Teknoloji Fakültesi](https://www.ktu.edu.tr/of) | [Yazılım Bölümü](https://www.ktu.edu.tr/yazilim)
-
-</div>
+| **Kodlama** | KaÄŸÄ±da YazÄ±m (Analog) | **IDE & Git StandartlarÄ±** |
+| **Ã–ÄŸrenme** | Sadece MÃ¼fredat (Dar) | **SÄ±nÄ±r TanÄ±mayan Self-Study** |
+| **DeÄŸerlendirme** | 100'e 10 KuralÄ± (Ezber) | **Proje & Repo DoluluÄŸu** |
 
 ---
 
 <div align="right">
   
-`STATUS: SYNCHRONIZED`  
-`LOC: 41.0082° N, 39.7231° E`  
+`STATUS: MERIT_SYNCED`  
+`VISION: TARGET_LOCKED`  
 `AUTHOR: @BAHATTINYUNUS`
   
 </div>
