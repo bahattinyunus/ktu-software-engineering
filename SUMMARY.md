@@ -8,9 +8,9 @@
 
 | Katman | Durum | Doluluk |
 | :--- | :--- | :--- |
-| **Repo Mimarisi** | `STANDBY` | 100% |
-| **1. Sınıf Modülleri** | `EMPTY` | 0% |
-| **2. Sınıf Modülleri** | `EMPTY` | 0% |
+| **Repo Mimarisi** | `SYNCED` | 100% |
+| **1. Sınıf Modülleri** | `DRAFTING` | 25% |
+| **2. Sınıf Modülleri** | `DRAFTING` | 15% |
 | **3. Sınıf Modülleri** | `EMPTY` | 0% |
 | **4. Sınıf Modülleri** | `EMPTY` | 0% |
 
