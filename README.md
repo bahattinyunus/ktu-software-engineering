@@ -23,10 +23,14 @@
 
 ### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Temel Katman
 KTÜ Yazılım Mühendisliği resmi müfredatı. Analog dünyadan dijital ustalığa geçişin ilk adımı.
-- [🔥 1. Sınıf (Sektör 01-02)](./0_MUREDDAAT/1_SINIF/)
-- [🛡️ 2. Sınıf (Sektör 03-04)](./0_MUREDDAAT/2_SINIF/)
-- [⚡ 3. Sınıf (Sektör 05-06)](./0_MUREDDAAT/3_SINIF/)
-- [🌌 4. Sınıf (Sektör 07-08)](./0_MUREDDAAT/4_SINIF/)
+- [🔥 **1. Sınıf (Sektör 01-02)**](./0_MUREDDAAT/1_SINIF/): Algoritma Disiplini, C Hakimiyeti ve Mantıksal Temeller.
+  - *Kritik:* [Algoritma I](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md) | [Algoritma II](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md)
+- [🛡️ **2. Sınıf (Sektör 03-04)**](./0_MUREDDAAT/2_SINIF/): Veri Disiplini, DB Mimarisi ve OOP Standartları.
+  - *Kritik:* [Veri Yapıları](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md) | [Veritabanı](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md)
+- [⚡ **3. Sınıf (Sektör 05-06)**](./0_MUREDDAAT/3_SINIF/): Sistem Derinliği, Dağıtık Yapılar ve Mimari Tasarım.
+  - *Kritik:* [İşletim Sistemleri](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md) | [Yazılım Mimarisi](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md)
+- [🌌 **4. Sınıf (Sektör 07-08)**](./0_MUREDDAAT/4_SINIF/): Kalite Güvencesi, Otonom Testler ve Final Tekilliği.
+  - *Kritik:* [Test & Kalite](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md) | [Bitirme Projesi](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md)
 
 ### 📂 [1_DOKTRIN](./1_DOKTRIN/) | İnanç ve Disiplin
 Liyakatin kanunları. Post-AI çağında nasıl ayakta kalınır ve nasıl hükmedilir?
