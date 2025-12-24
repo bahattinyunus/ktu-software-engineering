@@ -21,21 +21,35 @@
 ## 🗺️ STRATEJİK İÇERİK HARİTASI (CONTENT HUB)
 **Depo sistemi, 6 stratejik katman üzerine inşa edilmiştir. Her katman, mühendislik yolculuğunuzun farklı bir evresini temsil eder:**
 
-### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Temel Katman
-KTÜ Yazılım Mühendisliği resmi müfredatı. Analog dünyadan dijital ustalığa geçişin ilk adımı.
-- [🔥 **1. Sınıf (Sektör 01-02)**](./0_MUREDDAAT/1_SINIF/): Algoritma Disiplini, C Hakimiyeti ve Mantıksal Temeller.
-  - *Kritik:* [Algoritma I](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md) | [Algoritma II](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md)
-- [🛡️ **2. Sınıf (Sektör 03-04)**](./0_MUREDDAAT/2_SINIF/): Veri Disiplini, DB Mimarisi ve OOP Standartları.
-  - *Kritik:* [Veri Yapıları](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md) | [Veritabanı](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md)
-- [⚡ **3. Sınıf (Sektör 05-06)**](./0_MUREDDAAT/3_SINIF/): Sistem Derinliği, Dağıtık Yapılar ve Mimari Tasarım.
-  - *Kritik:* [İşletim Sistemleri](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md) | [Yazılım Mimarisi](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md)
-- [🌌 **4. Sınıf (Sektör 07-08)**](./0_MUREDDAAT/4_SINIF/): Kalite Güvencesi, Otonom Testler ve Final Tekilliği.
-  - *Kritik:* [Test & Kalite](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md) | [Bitirme Projesi](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md)
+### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Ustalık ve Müfredat Katmanı
+KTÜ Yazılım Mühendisliği resmi müfredatının liyakatle "hacklenmiş" hali. 4 yıllık yolculuk, 8 stratejik sektöre ayrılmıştır:
+
+#### 🔥 1. SINIF: ATEŞLEME (Algoritma ve Mantık)
+- **SEC-01 (Güz):** [Algoritma I](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md) | *Odak:* Pointerlar, Stack Disiplini, C Mantığı.
+- **SEC-02 (Bahar):** [Algoritma II](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md) | *Odak:* Gelişmiş Yapılar, Dosya Sistemleri.
+> [!TIP]
+> **Rehber:** [Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md) temel atarken en büyük yardımcınızdır.
+
+#### 🛡️ 2. SINIF: TAHKİMAT (Veri ve Mimari)
+- **SEC-03 (Güz):** [Veri Yapıları](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md) | *Odak:* Heap Yönetimi, Ağaçlar, Big O Optimizasyonu.
+- **SEC-04 (Bahar):** [Veritabanı](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md) | *Odak:* DB Mimarisi, Normalizasyon, SQL Mastery.
+
+#### ⚡ 3. SINIF: YÜKSELİŞ (Sistem ve Ağ)
+- **SEC-05 (Güz):** [İşletim Sistemleri](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md) | *Odak:* Kernel Modları, Süreç Senkronizasyonu.
+- **SEC-06 (Bahar):** [Tasarım ve Mimari](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md) | *Odak:* SOLID, Design Patterns, Hexagonal Architecture.
+> [!IMPORTANT]
+> **Rehber:** [Sistem Tasarımı El Kitabı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md) bu aşamada ana haritanızdır.
+
+#### 🌌 4. SINIF: ÖTESİ (Kalite ve Tekillik)
+- **SEC-07 (Güz):** [Test ve Kalite](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md) | *Odak:* TDD, Otonom Testler, DevSecOps.
+- **SEC-08 (Bahar):** [Bitirme Projesi](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md) | *Odak:* Final Seal, Uçtan Uca Sistem İnşası.
+
+---
 
 ### 📂 [1_DOKTRIN](./1_DOKTRIN/) | İnanç ve Disiplin
 Liyakatin kanunları. Post-AI çağında nasıl ayakta kalınır ve nasıl hükmedilir?
 - [🛰️ Mimari Yapı](./1_DOKTRIN/MIMARI_YAPI.md) | [🤖 AI Çağı Rehberi](./1_DOKTRIN/YAPAY_ZEKA_CAGI_REHBERI.md)
-- [ eagles Katkı Rehberi](./1_DOKTRIN/KATKI_REHBERI.md) | [🛠️ Teknoloji Yığını](./1_DOKTRIN/TEKNOLOJI_YIGINI.md)
+- [🦅 Katkı Rehberi](./1_DOKTRIN/KATKI_REHBERI.md) | [🛠️ Teknoloji Yığını](./1_DOKTRIN/TEKNOLOJI_YIGINI.md)
 
 ### 📂 [2_USTALIK](./2_USTALIK/) | Güç Çarpanı
 Öğrenmeyi öğrenmek ve derinleşmek. Teoriyi 10x güçlendiren metodolojiler.
@@ -85,47 +99,6 @@ graph LR
     style G fill:#000,stroke:#FFD700,stroke-width:6px,color:#FFD700
     style F fill:#000080,stroke:#fff,stroke-width:3px,color:#fff
 ```
-
----
-
-## 🏗️ AKADEMİK KOMUTA PANELİ (TEKILLIK_MODU)
-
-Müfredat sadece bir ders listesi değil, liyakatin 8 seviyesidir. Her seviyede hangi **"Ustalık Düğümüne"** (Mastery Node) odaklanmanız gerektiği aşağıda açıkça tanımlanmıştır.
-
-### 🔥 SEKTÖR 01: ATEŞLEME (1. SINIF)
-*Sistemin temellerini atma ve algoritma disiplini.*
-- **[SEC-01] Algoritma I:** [Ustalık Yol Haritası](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md)
-  - *Odak:* Pointer Aritmetiği, Bellek Yönetimi, Fonksiyonel Bölünme.
-  - *İlgili İçerik:* [Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md) | [Algoritma Notları](./2_USTALIK/_USTALIK_NOTLARI/ALG_USTALIK_NOTLARI.md)
-- **[SEC-02] Algoritma II:** [Ustalık Yol Haritası](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md)
-  - *Odak:* Dosya Sistemleri, Gelişmiş Struct yapıları, C disiplini.
-  - *İlgili İçerik:* [Nasıl Çalışmalı?](./2_USTALIK/NASIL_CALISMALI.md)
-
-### 🛡️ SEKTÖR 02: TAHKİMAT (2. SINIF)
-*Veri yönetimi ve sistem mimarisinin sağlamlaştırılması.*
-- **[SEC-03] Veri Yapıları:** [Ustalık Yol Haritası](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md)
-  - *Odak:* Dinamik Bellek (Heap), Ağaçlar, Graf Teorisi, Big O Optimizasyonu.
-  - *İlgili İçerik:* [Veri Yapıları Analizi](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md)
-- **[SEC-04] Veritabanı:** [Ustalık Yol Haritası](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md)
-  - *Odak:* Normalizasyon, İndeksleme Stratejileri, SQL Master.
-
-### ⚡ SEKTÖR 03: YÜKSELİŞ (3. SINIF)
-*Düşük seviyeli sistemlerden yüksek seviyeli mimariye geçiş.*
-- **[SEC-05] İşletim Sistemleri:** [Ustalık Yol Haritası](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md)
-  - *Odak:* Kernel Modları, Süreç Senkronizasyonu (Mutex), Virtual Memory.
-  - *İlgili İçerik:* [OS Ustalık Notları](./2_USTALIK/_USTALIK_NOTLARI/OS_USTALIK_NOTLARI.md)
-- **[SEC-06] Tasarım ve Mimari:** [Ustalık Yol Haritası](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md)
-  - *Odak:* SOLID, Design Patterns, Hexagonal Architecture.
-  - *İlgili İçerik:* [Sistem Tasarımı El Kitabı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md)
-
-### 🌌 SEKTÖR 04: ÖTESİ (4. SINIF)
-*Kalite, profesyonellik ve final tekilliği.*
-- **[SEC-07] Test ve Kalite:** [Ustalık Yol Haritası](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md)
-  - *Odak:* TDD, Otonom Testler, DevSecOps Entegrasyonu.
-  - *İlgili İçerik:* [AI ile Derin Öğrenme](./2_USTALIK/_REHBERLER/AI_ILE_DERIN_OGRENME.md)
-- **[SEC-08] Bitirme:** [Final Seal (Başeser)](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md)
-  - *Odak:* Proje Yönetimi, Mimari Valide etme, Uçtan Uca Sistem İnşası.
-  - *İlgili İçerik:* [Proje Rehberi](./2_USTALIK/PROJE_REHBERI.md) | [Kariyer ve Ağ](./3_KARIYER/KARIYER_VE_AG.md)
 
 ---
 
