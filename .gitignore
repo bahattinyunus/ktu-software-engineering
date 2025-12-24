@@ -1,0 +1,30 @@
+# OS generated files
+[Dd]s_Store
+Thumbs.db
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+tmp/
+temp/
+*.log
+*.bak
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Academic specific
+!Ders_Plani.md
+!Teorik_Notlar/
+!Uygulamalar/
+!Kaynaklar/
