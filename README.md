@@ -1,67 +1,88 @@
 <div align="center">
 
-# 🏛️ KTÜ POST-AI YAZILIM MÜHENDİSLİĞİ MERKEZİ
-### "Geleneksel Müfredat Temelinde, Yapay Zeka Çağı Mühendisliği"
+# 🌌 KTÜ POST-AI STRATEGIC COMMAND CENTER
+## ⛩️ "Transcendental Engineering & Multi-Dimensional Mastery" ⛩️
 
-[![Focus](https://img.shields.io/badge/FOCUS-POST--AI_ENGINEERING-red?style=for-the-badge&logo=openai)](./AI_ERA_GUIDE.md)
-[![Basis](https://img.shields.io/badge/BASIS-KTU_CURRICULUM-blue?style=for-the-badge&logo=google-scholar)](./README.md)
-[![Status](https://img.shields.io/badge/STATUS-MASTERY_DRIVEN-success?style=for-the-badge&logo=codestats)](./SUMMARY.md)
+[![Tier](https://img.shields.io/badge/TIER-GOD_MODE-gold?style=for-the-badge&logo=superman)](./SUMMARY.md)
+[![Protocol](https://img.shields.io/badge/PROTOCOL-STRATEGIC_ASSET-black?style=for-the-badge&logo=ghost)](./ARCHITECTURE.md)
+[![Era](https://img.shields.io/badge/ERA-POST--AI_SINGULARITY-red?style=for-the-badge&logo=openai)](./AI_ERA_GUIDE.md)
 
 ---
 
-**Bu arşiv; KTÜ Yazılım Mühendisliği müfredatını (PID: 2615) 'temel katman' (Base Layer) olarak kabul eder ve bu temel üzerine "AI sonrası" (Post-AI) yazılım mühendisliği disiplinini inşa eder. Amacımız, yapay zekayı bir yardımcı değil, bir çarpan (multiplier) olarak kullanan Elite mühendisler yetiştirmektir.**
+### 🏛️ REPOSITORY DESTINY (DEPO KADERİ)
+**Bu arşiv; sıradan bir akademik depo değildir. Bu, liyakatin dijital bir kale (Fortress) haline geldiği, müfredatın bir "Base Layer" olarak aşılıp, yapay zeka ve mühendislik disipliniyle arşa çıkarıldığı "Transcendental" bir operasyon merkezidir.**
 
-[🤖 Post-AI Mastery Manifestosu](./AI_ERA_GUIDE.md) • [📖 Disiplin Rehberi](./TECH_STACK.md) • [📊 Dashboard](#-akademik-dashboard)
+[🛰️ Strategic Architecture](./ARCHITECTURE.md) • [📜 Mastery Manifesto](./_MANIFESTO/README.md) • [📡 Singularity Guide](./AI_ERA_GUIDE.md)
+
+---
 
 </div>
 
+## 🛰️ SYSTEM ARCHITECTURE OVERVIEW
+
+```mermaid
+graph TD
+    subgraph "STRATEGIC_CORE (The Foundation)"
+        A[KTÜ Curriculum PID:2615] --> B{AI Force Multiplier}
+    end
+
+    subgraph "MASTERY_LAYERS (The Evolution)"
+        B -- "Phase 1" --> C[Core Discipline]
+        B -- "Phase 2" --> D[Architectural Vision]
+        B -- "Phase 3" --> E[Post-AI Singularity]
+    end
+
+    subgraph "OUTCOME (The Result)"
+        C --> F[Elite Engineer]
+        D --> F
+        E --> F
+        F --> G["🌌 National Tech Singularity (Milli Teknoloji Hamlesi)"]
+    end
+
+    style B fill:#b71c1c,stroke:#fff,stroke-width:4px,color:#fff
+    style G fill:#000,stroke:#gold,stroke-width:5px,color:#gold
+```
+
 ---
 
-> [!IMPORTANT]
-> ## 🛰️ POST-AI VİZYONU: MÜFREDAT + AI ÇARPANI
->
-> Bizim için mevcut akademik müfredat, mühendislik disiplininin "alfabesi"dir. Ancak biz bu alfabeyi kullanarak "AI-Native" sistemler yazmayı hedefliyoruz. Diploma hedeflemekten vazgeçtiğimiz, disiplini AI ile birleştirdiğimiz o noktada gerçek "Post-AI" mühendisliği başlar.
+## 🏗️ ACADEMIC COMMAND DASHBOARD (GOD_MODE)
 
----
-
-## 🏗️ AKADEMİK DASHBOARD (POST-AI LAYERS)
-
-Müfredatı sınavları geçmek için değil, AI çağında o konuya nasıl **hükmedeceğinizi** anlamak için kullanıyoruz.
+Müfredatı bir "Sistem Hacking" operasyonu gibi yönetiyoruz.
 
 <table width="100%">
   <tr>
-    <th width="50%" align="center">🟦 KATMAN 1: AI-ENHANCED FOUNDATIONS</th>
-    <th width="50%" align="center">🟩 KATMAN 2: AI-ASSISTED ARCHITECTURE</th>
+    <th width="50%" align="center">🔥 PHASE 1: IGNITION (1. SINIF)</th>
+    <th width="50%" align="center">🛡️ PHASE 2: FORTIFICATION (2. SINIF)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>1. GÜZ:</b> <a href="./1_SINIF/1_Guz/">Algoritma & AI Logic</a> <br/> <sub><i>"AI ile mantıksal doğrulama."</i></sub></li>
-        <li><b>2. BAHAR:</b> <a href="./1_SINIF/2_Bahar/">System Programming v2.0</a> <br/> <sub><i>"AI yardımıyla C/OS derinliği."</i></sub></li>
+        <li><b>SEC-01:</b> <a href="./1_SINIF/1_Guz/">Algorithm & Logic Hacking</a></li>
+        <li><b>SEC-02:</b> <a href="./1_SINIF/2_Bahar/">System Core Reconnaissance</a></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>3. GÜZ:</b> <a href="./2_SINIF/3_Guz/">Data Structures + AI</a> <br/> <sub><i>"AI ile bellek optimizasyonu."</i></sub></li>
-        <li><b>4. BAHAR:</b> <a href="./2_SINIF/4_Bahar/">Post-AI System Design</a> <br/> <sub><i>"AI-Native mikroservisler."</i></sub></li>
+        <li><b>SEC-03:</b> <a href="./2_SINIF/3_Guz/">Data Structure Optimization</a></li>
+        <li><b>SEC-04:</b> <a href="./2_SINIF/4_Bahar/">Architectural Solidification</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <th width="50%" align="center">🟨 KATMAN 3: CLOUD & AI SPECIALIZATION</th>
-    <th width="50%" align="center">🟥 KATMAN 4: FINAL MASTERY (POST-AI)</th>
+    <th width="50%" align="center">⚡ PHASE 3: ASCENSION (3. SINIF)</th>
+    <th width="50%" align="center">🌌 PHASE 4: TRANSCENDENCE (4. SINIF)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>5. GÜZ:</b> <a href="./3_SINIF/5_Guz/">Deep OS & AI Networking</a> <br/> <sub><i>"Akıllı altyapılar."</i></sub></li>
-        <li><b>6. BAHAR:</b> <a href="./3_SINIF/6_Bahar/">Scalable Post-AI Arch.</a> <br/> <sub><i>"Geleceğin sistemlerini kurmak."</i></sub></li>
+        <li><b>SEC-05:</b> <a href="./3_SINIF/5_Guz/">Deep Infrastructure Mastery</a></li>
+        <li><b>SEC-06:</b> <a href="./3_SINIF/6_Bahar/">Scalable Singularity Arch.</a></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>7. GÜZ:</b> <a href="./4_SINIF/7_Guz/">AI-Driven Quality & Management</a> <br/> <sub><i>"Yapay zeka ile test ve süreç."</i></sub></li>
-        <li><b>8. BAHAR:</b> <a href="./4_SINIF/8_Bahar/">The Unrivaled Bitirme Projesi</a> <br/> <sub><i>"Post-AI mühendislik mührü."</i></sub></li>
+        <li><b>SEC-07:</b> <a href="./4_SINIF/7_Guz/">Industrial Quality Quantum</a></li>
+        <li><b>SEC-08:</b> <a href="./4_SINIF/8_Bahar/">Final: GOD_MODE_PROJECT</a></li>
       </ul>
     </td>
   </tr>
@@ -69,37 +90,32 @@ Müfredatı sınavları geçmek için değil, AI çağında o konuya nasıl **h�
 
 ---
 
-## 🛡️ POST-AI MÜHENDİSLİK ETİĞİ
+## 🛡️ STRATEGIC DOCTRINES (DOKTRİNLER)
 
-1. **AI as a Multiplier:** AI kopyalamak için değil, kendi kapasiteni 10x'e çıkarmak için kullanılır.
-2. **Deep Verification:** AI'nın yazdığı her satırı "Computer Science" temelleriyle denetleme zorunluluğu.
-3. **Discipline over Diploma:** Diplomanın veremediği o "Post-AI Vizyonu"nu repomuzla kanıtlamak.
+> [!CAUTION]
+> ### ⚔️ RULE 01: DIPLOMA IS COLLATERAL
+> Diploma bir gaye değil, liyakat yolculuğunda toplanan bir ganimettir. Asıl hedef, sistemin ötesindeki **MUTLAK HAKİMİYET**tir.
 
----
-
-## 📊 VİZYON AKIŞ ŞEMASI (POST-AI FLOW)
-
-```mermaid
-graph TD
-    A[Geleneksel Müfredat] --> B{AI Entegrasyonu}
-    B -- "Sadece Prompt" --> C[Yüzeysel Kullanıcı]
-    B -- "Derin Entegrasyon" --> D[Post-AI Engineer]
-    
-    C --> E[Sektörel Elenme]
-    D --> F[Liyakat & Mastery]
-    
-    F --> G[Milli Teknoloji Hamlesi v2.0]
-    
-    style D fill:#ffebee,stroke:#b71c1c,stroke-width:3px
-    style F fill:#e1f5fe,stroke:#01579b,stroke-width:4px
-```
+> [!IMPORTANT]
+> ### 🤖 RULE 02: AI SYNERGY
+> Yapay zeka senin kölen değil, zihninin 100x genişlemiş halidir. Onu yasaklayan sistemlere inat, biz onu **YARATICI YIKIM** (Creative Destruction) için kullanıyoruz.
 
 ---
 
-<div align="right">
+## 🌐 QUANTUM FAQS
+
+**S: Bu repo neden bu kadar agresif?**
+*C: Çünkü ortalama olmanın bedeli, "sıradanlık çukurunda" kaybolmaktır. Biz zirveyi hedefliyoruz.*
+
+**S: Müfredatın dışındaki bilgiler güvenli mi?**
+*C: Gerçek güvenlik liyakattedir. Sektörün en sert projelerine hazır olmak, akademik kağıt parçalarından daha güvenlidir.*
+
+---
+
+<div align="center">
   
-`STATUS: POST_AI_HUB_OPERATIONAL`  
-`BASIS: KTU_CURRICULUM_V1`  
-`AUTHOR: @BAHATTINYUNUS`
+`TRANSMISSION_STATUS: TRANSCENDENTAL`  
+`ARCHIVE_LEVEL: GOD_MODE`  
+`COORDINATES: @BAHATTINYUNUS // STRATEGIC_ASSET`
   
 </div>

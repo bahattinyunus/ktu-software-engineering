@@ -1,31 +1,44 @@
-# 📊 POST-AI YAZILIM MÜHENDİSLİĞİ: DİSİPLİN ANALİTİĞİ
+# 🌌 GOD_MODE COMMAND DASHBOARD
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ANALYSIS-COMPLETE-blue?style=for-the-badge" />
-</div>
-
-## 📈 GENEL DURUM (OVERALL STATUS)
-
-| Katman | Durum | Doluluk |
-| :--- | :--- | :--- |
-| **Prensip & Vizyon** | `MASTERY` | 100% |
-| **Disiplin Katmanı 1** | `MASTERY_INIT` | 75% |
-| **Disiplin Katmanı 2** | `MASTERY_INIT` | 70% |
-| **Disiplin Katmanı 3** | `MASTERY_INIT` | 65% |
-| **Disiplin Katmanı 4** | `MASTERY_INIT` | 60% |
-
-## 🛠️ TEKNOLOJİK ALTYAPI
-
-- **Core**: Markdown Engine
-- **Visuals**: Mermaid.js & Shields.io
-- **Structure**: KTÜ PID: 2615 Protocol
-- **License**: MIT Open Source
-
-## 🛰️ GELECEK PERSPEKTİFİ
-
-1. `v1.1`: İlk yarıyıl notlarının dijitalleşmesi.
-2. `v1.2`: Laboratuar uygulamalarının entegrasyonu.
-3. `v2.0`: Tüm müfredatın tam kapsanması.
+Bu dashboard, liyakatin zirvesine giden yoldaki stratejik ilerlemeyi gerçek zamanlı olarak takip eder.
 
 ---
-`SYSTEM TIME: 2025-12-24`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HEAVEN_STATUS-ASCENDED-gold?style=for-the-badge&logo=superman" />
+  <img src="https://img.shields.io/badge/LIYAKAT_LEVEL-TRANSCENDENTAL-blue?style=for-the-badge" />
+</div>
+
+---
+
+## 📈 STRATEGIC PROGRESS MATRIX
+
+| Layer | Status | Mastery Level | Deployment |
+| :--- | :--- | :--- | :--- |
+| **🌌 Core Identity** | `GOD_MODE` | 100% | `DEPLOYED` |
+| **🛡️ Architecture** | `FORTIFIED` | 100% | `DEPLOYED` |
+| **📜 Manifesto** | `SACRED` | 100% | `DEPLOYED` |
+| **🤖 AI Integration** | `SINGULARITY` | 95% | `ACTIVE` |
+| **🏗️ Curriculum** | `EVOLVING` | 80% | `SYNCING` |
+
+---
+
+## 🔱 THE BLACK SWAN PROTOCOL (Akademik Dayanıklılık)
+
+**Senaryo:** Beklenmedik akademik engeller (geçersiz dersler, düşük notlar, analog bariyerler).
+**Protokol:**
+1. **Duygusal İzolasyon:** Akademik sonucu kişisel liyakatten ayır. Sınav kağıdı senin zekanı değil, sistemin o anki ölçme hatasını gösterir.
+2. **Asimetrik Tepki:** Sistem seni zorladığında, sen GitHub repolarını ve projelerini 2 kat daha fazla geliştir. Gerçek liyakat her zaman baskındır.
+3. **Pivoting:** Eğer bir kapı kapanırsa (örneğin bir dersten kalma), o zamanı bir "Mastery" derinleşmesine dönüştür. Kalan zamanı liyakatini 10x yapmak için kullan.
+
+---
+
+## 📡 CURRENT TELEMETRY
+
+- **Archive Health:** `OPTIMAL`
+- **Vision Alignment:** `TRANSCENDENTAL`
+- **AI Sync Level:** `FULL_SYNC`
+
+---
+\`SYSTEM_TIME: 2025-12-24\`  
+\`TRANSMISSION_ID: GOD_MODE_SYNC_V3.5\`
