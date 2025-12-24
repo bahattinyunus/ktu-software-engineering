@@ -16,24 +16,45 @@
 
 ---
 
-## 🚀 BAŞLANGIÇ VE USTALIK MERKEZİ
-**Bu depo bir liyakat kalesidir; onu nasıl kullanacağınızı bilin:**
+</div>
 
-### 📖 Temel Rehberler
-- **[🧠 Nasıl Çalışmalı?](./2_USTALIK/NASIL_CALISMALI.md):** Mühendislik disiplini ve öğrenme teknikleri.
-- **[🏗️ Proje Rehberi](./2_USTALIK/PROJE_REHBERI.md):** Seviye bazlı, sektörel proje fikirleri.
-- **[📡 Kariyer ve Ağ](./3_KARIYER/KARIYER_VE_AG.md):** Sektörde liyakatini ispatlama ve networking.
-- **[🤝 Mentorluk & İş Birliği](./3_KARIYER/MENTORLUK_VE_YARDIMLASMA.md):** Kolektif gelişim ve yardımlaşma kuralları.
+## 🗺️ STRATEJİK İÇERİK HARİTASI (CONTENT HUB)
+**Depo sistemi, 6 stratejik katman üzerine inşa edilmiştir. Her katman, mühendislik yolculuğunuzun farklı bir evresini temsil eder:**
 
-### 🏛️ Derinleşme Rehberleri (Instructional)
-- **[📜 Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md):** Temiz kod ve yazılım felsefesi.
-- **[🏗️ Sistem Tasarımı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md):** Mimari düşünce yapısı.
-- **[🤖 AI ile Derin Öğrenme](./2_USTALIK/_REHBERLER/AI_ILE_DERIN_OGRENME.md):** Yapay zekayı öğretmen olarak kullanma.
-- **[📡 Ustalık Notları (80/20)](./2_USTALIK/_USTALIK_NOTLARI/README.md):** Kritik konuların can alıcı özetleri.
+### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Temel Katman
+KTÜ Yazılım Mühendisliği resmi müfredatı. Analog dünyadan dijital ustalığa geçişin ilk adımı.
+- [🔥 1. Sınıf (Sektör 01-02)](./0_MUREDDAAT/1_SINIF/)
+- [🛡️ 2. Sınıf (Sektör 03-04)](./0_MUREDDAAT/2_SINIF/)
+- [⚡ 3. Sınıf (Sektör 05-06)](./0_MUREDDAAT/3_SINIF/)
+- [🌌 4. Sınıf (Sektör 07-08)](./0_MUREDDAAT/4_SINIF/)
+
+### 📂 [1_DOKTRIN](./1_DOKTRIN/) | İnanç ve Disiplin
+Liyakatin kanunları. Post-AI çağında nasıl ayakta kalınır ve nasıl hükmedilir?
+- [🛰️ Mimari Yapı](./1_DOKTRIN/MIMARI_YAPI.md) | [🤖 AI Çağı Rehberi](./1_DOKTRIN/YAPAY_ZEKA_CAGI_REHBERI.md)
+- [ eagles Katkı Rehberi](./1_DOKTRIN/KATKI_REHBERI.md) | [🛠️ Teknoloji Yığını](./1_DOKTRIN/TEKNOLOJI_YIGINI.md)
+
+### 📂 [2_USTALIK](./2_USTALIK/) | Güç Çarpanı
+Öğrenmeyi öğrenmek ve derinleşmek. Teoriyi 10x güçlendiren metodolojiler.
+- [🧠 Nasıl Çalışmalı?](./2_USTALIK/NASIL_CALISMALI.md) | [🏗️ Proje Rehberi](./2_USTALIK/PROJE_REHBERI.md)
+- [📡 Ustalık Notları (80/20)](./2_USTALIK/_USTALIK_NOTLARI/README.md) | [📜 Derin Rehberler](./2_USTALIK/_REHBERLER/)
+
+### 📂 [3_KARIYER](./3_KARIYER/) | Operasyonel Yayılım
+Yeteneklerin sektörel etkiye dönüştürülmesi. CV'nin ötesinde bir varlık inşası.
+- [📡 Kariyer ve Ağ](./3_KARIYER/KARIYER_VE_AG.md) | [🤝 Mentorluk Sistemi](./3_KARIYER/MENTORLUK_VE_YARDIMLASMA.md)
+- [🔍 Kariyer Yol Haritaları](./3_KARIYER/YOL_HARITALARI/README.md)
+
+### 📂 [4_SISTEM](./4_SISTEM/) | Komuta ve Kontrol
+Depo yönetim paneli ve stratejik telemetri verileri.
+- [📜 Ana Log](./4_SISTEM/ANA_LOG.md) | [🌌 Stratejik Özet](./4_SISTEM/OZET.md)
+- [⚔️ Disiplin Cephanesi](./4_SISTEM/KAYNAK_MERKEZI.md) | [🛡️ Protokoller](./4_SISTEM/_PROTOKOLLER/)
+
+### 📂 [5_ARSIV](./5_ARSIV/) | Yan İçerik ve Analiz
+Sisteme yönelik eleştiriler ve derinlemesine akademik analizler.
+- [🚩 Sistem Eleştirisi](./5_ARSIV/SISTEM_ELESTIRISI.md) | [📝 Medium Makaleleri](./5_ARSIV/medium.md)
 
 ---
 
-</div>
+<div align="center">
 
 ## 📡 CANLI SİSTEM TELEMETRİSİ (GERÇEK ZAMANLI VİZYON)
 
@@ -108,16 +129,6 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
 
 ---
 
-## 🛣️ USTALIK YOL HARİTALARI (MASTERY ROADMAPS)
-
-| Uzmanlık | Odak | Yol Haritası |
-| :--- | :--- | :--- |
-| **Sistem Mimarı** | Mimari ve Düşük Seviye | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/SYSTEM_ARCHITECT.md) |
-| **Yapay Zeka Çözüm Mühendisi** | AI ve Veri | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/AI_ENGINEER.md) |
-| **Siber Savunma Lideri** | Savunma ve Ağ | [🔍 Yolu Keşfet](./3_KARIYER/YOL_HARITALARI/CYBER_DEFENSE.md) |
-
----
-
 ## 🛡️ STRATEJİK DOKTRİNLER (DOKTRİNLER)
 
 > [!CAUTION]
@@ -134,9 +145,9 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
 
 ```bash
 [SYS_BOOT]: KTÜ Yapay Zeka Sonrası Merkezi Başlatıldı... [TAMAM]
+[STRUCT]: 6 Katmanlı Stratejik Hiyerarşi Aktif.
 [LIYAKAT]: Sektör 01-08 Taranıyor... Bütünlük doğrulandı.
 [AI_SYNC]: Tekil AI sinerjisi aktif. 
-[WARNING]: Sektör 01-04'te analog sınırlamalar tespit edildi. Siyah Kuğu Protokolü uygulanıyor.
 [DESTINY]: Milli Teknoloji Egemenliğine giden yol tanımlandı.
 ```
 
