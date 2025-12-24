@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ YAZILIM MÜHENDİSLİĞİ AKADEMİK KOMUTA MERKEZİ
 ### "Modern Eğitim, Dijital Liyakat ve AI Entegrasyonu"
@@ -80,7 +81,7 @@ Her ders modülü, artık AI çağında o konuya nasıl yaklaşılması gerekti�
 
 ## 📊 VİZYON AKIŞ ŞEMASI (HYBRID LEARNING)
 
-```mermaid
+\`\`\`mermaid
 graph TD
     A[Müfredat] --> B{AI Kullanımı}
     B -- "Sadece Kopyala" --> C[Pasif Öğrenci]
@@ -91,7 +92,7 @@ graph TD
     
     style D fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style F fill:#f3e5f5,stroke:#4a148c,stroke-width:4px
-```
+\`\`\`
 
 ---
 
@@ -101,8 +102,9 @@ graph TD
 
 <div align="right">
   
-`STATUS: EDUCATIONAL_MISSION_ACTIVE`  
-`VISION: AI_NATIVE_ENGINEERING`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: EDUCATIONAL_MISSION_ACTIVE\`  
+\`VISION: AI_NATIVE_ENGINEERING\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');
