@@ -1,12 +1,12 @@
-# 🤖 AI Çağında Yazılım Mühendisliği Müfredatı: Stratejik Rehber
+# 🤖 AI Çağında Yazılım Mühendisliği Disiplini: Mastery Rehberi
 
-Eski nesil müfredatları, yeni nesil araçlarla harmanlayarak "Süper Mühendis" olma yol haritası.
+Müfredatı sınavı geçmek için değil, disiplini iliklerinize kadar hissetmek için AI ile nasıl harmanlarsınız?
 
 ---
 
-## 🚀 1. Paradigma Değişimi: Ezberden İstem (Prompt) Mühendisliğine
+## 🚀 1. Paradigma Değişimi: Diplomalı Memurdan, Disiplinli Ustaya
 
-Yazılım mühendisliği eğitimi artık "kod yazmayı" değil, "problemi çözmeyi ve kodu yönetmeyi" merkeze almalıdır. AI araçları (Cursor, GitHub Copilot, Claude) müfredatla şu şekilde entegre edilmelidir:
+Yazılım mühendisliği eğitimi artık sadece kod yazmayı değil, problemi çözmeyi ve bu çözümü sürdürülebilir kılmayı hedefler. AI araçları, disiplini öğrenmek için birer "Mentor" olarak kullanılmalıdır:
 
 ### ❌ Eski Yöntem (Outdated)
 - Algoritmayı kağıda yazıp ezberlemek.

@@ -21,6 +21,12 @@ Sektörün GPA'ya verdiği değerin arkasında her zaman "deha" arayışı yatma
 - **Korku Faktörü:** Sektör, 2 yıl sonra kendi rakibini kuracak kadar yetkin ve "isyan potensiyeli" olan vizyoner yazılımcıdan ziyade, 10 yıl boyunca aynı koltukta kalacak güvenli profilleri tercih edebilir. 
 - **Sonuç:** Akademik başarı, bazen yaratıcılığın ve girişimci ruhun törpülenmesi karşılığında verilen bir "uyum madalyasıdır".
 
+## 🗡️ Stratejik Tercih: Disiplin mi, Diploma mı?
+**Vaka: Mastery Odaklı Yol Ayrımı**
+Bu repoyu takip edenlerin bilmesi gereken en temel gerçek şudur: Biz diplomayı bir amaç olarak görmeyi bıraktık. Bu, bir "başaramama" değil, bir "vazgeçme" ve "yükselme" tercihidir. 
+- **Tercih:** Mevcut sistemin dar kalıplarında bir diploma sahibi olmak yerine, yazılım mühendisliği disiplininin evrensel standartlarında bir **Usta (Master)** olmayı seçtik.
+- **Bilinçli Duruş:** Diplomayı hedeflemeyen bir mühendis, sınav kağıdına değil, koda ve mimariye odaklanır. Bu özgürlük, gerçek disiplin kapısını açar.
+
 ---
 
 ## 🔥 Orijinal Başkaldırı Notu (Arşivlik)
@@ -28,4 +34,4 @@ Sektörün GPA'ya verdiği değerin arkasında her zaman "deha" arayışı yatma
 
 ---
 > [!NOTE]
-> Bu eleştiriler, bir isyan değil; sistemin kendi kendine yapması gereken bir "debug" sürecine tutulmuş aynadır. Profesyonel duruşumuzu bozmadan, hakikati bu arşivde saklı tutuyoruz.
+> Bu eleştiriler, bir isyan değil; sistemin kendi kendine yapması gereken bir "debug" sürecine tutulmuş aynadır. Profesyonel duruşumuzu bozmadan, hakikati bu arşivde saklı tutuyoruz. Bizim yolumuz diplomadan değil, disiplinden geçer.
