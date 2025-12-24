@@ -1,42 +1,59 @@
 <div align="center">
 
-# 🛰️ KTÜ POST-AI STRATEGIC COMMAND CENTER
-## ⛩️ "Transcendental Engineering & Multi-Dimensional Mastery" ⛩️
+# 🛰️ KTÜ YAPAY ZEKA SONRASI STRATEJİK KOMUTA MERKEZİ
+## ⛩️ "Üstün Mühendislik ve Çok Boyutlu Uzmanlık" ⛩️
 
-[![Tier](https://img.shields.io/badge/TIER-SINGULARITY-red?style=for-the-badge&logo=superman)](./SUMMARY.md)
-[![Protocol](https://img.shields.io/badge/PROTOCOL-BLACK_OPS-black?style=for-the-badge&logo=ghost)](./ARCHITECTURE.md)
-[![Status](https://img.shields.io/badge/LIVE_TELEMETRY-OPTIMAL-success?style=for-the-badge&logo=codestats)](./SUMMARY.md)
+[![Tier](https://img.shields.io/badge/SEVIYE-TEKILLIK-red?style=for-the-badge&logo=superman)](./OZET.md)
+[![Protokol](https://img.shields.io/badge/PROTOKOL-OZEL_OPERASYON-black?style=for-the-badge&logo=ghost)](./MIMARI_YAPI.md)
+[![Durum](https://img.shields.io/badge/CANLI_TELEMETRI-OPTIMAL-success?style=for-the-badge&logo=codestats)](./OZET.md)
 
 ---
 
-### 🏛️ REPOSITORY DESTINY (DEPO KADERİ)
-**Bu arşiv; sıradan bir akademik depo değildir. Bu, liyakatin dijital bir kale (Fortress) haline geldiği, müfredatın bir "Base Layer" olarak aşılıp, yapay zeka ve mühendislik disipliniyle arşa çıkarıldığı bir "Singularity" merkezidir.**
+### 🏛️ DEPO KADERİ (REPOSITORY DESTINY)
+**Bu arşiv; sıradan bir akademik depo değildir. Bu, liyakatin dijital bir kale (Fortress) haline geldiği, müfredatın bir "Temel Katman" (Base Layer) olarak aşılıp, yapay zeka ve mühendislik disipliniyle arşa çıkarıldığı bir "Tekillik" (Singularity) merkezidir.**
 
-[🛰️ Architecture](./ARCHITECTURE.md) • [📜 Manifesto](./_MANIFESTO/README.md) • [📡 Roadmap](./ROADMAPS/README.md) • [📜 Mastery Log](./MASTER_LOG.md)
+[🛰️ Mimari](./MIMARI_YAPI.md) • [📜 Manifesto](./_MANIFESTO/README.md) • [📡 Yol Haritası](./YOL_HARITALARI/README.md) • [📜 Ustalık Logu](./ANA_LOG.md)
+
+---
+
+## 🚀 BAŞLANGIÇ VE USTALIK MERKEZİ
+**Bu depo bir liyakat kalesidir; onu nasıl kullanacağınızı bilin:**
+
+### 📖 Temel Rehberler
+- **[🧠 Nasıl Çalışmalı?](./NASIL_CALISMALI.md):** Mühendislik disiplini ve öğrenme teknikleri.
+- **[🏗️ Proje Rehberi](./PROJE_REHBERI.md):** Seviye bazlı, sektörel proje fikirleri.
+- **[📡 Kariyer ve Ağ](./KARIYER_VE_AG.md):** Sektörde liyakatini ispatlama ve networking.
+- **[🤝 Mentorluk & İş Birliği](./MENTORLUK_VE_YARDIMLASMA.md):** Kolektif gelişim ve yardımlaşma kuralları.
+
+### 🏛️ Derinleşme Rehberleri (Instructional)
+- **[📜 Programlama Doktrini](./_REHBERLER/PROGRAMLAMA_DOKTRINI.md):** Temiz kod ve yazılım felsefesi.
+- **[🏗️ Sistem Tasarımı](./_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md):** Mimari düşünce yapısı.
+- **[🤖 AI ile Derin Öğrenme](./_REHBERLER/AI_ILE_DERIN_OGRENME.md):** Yapay zekayı öğretmen olarak kullanma.
+- **[📡 Ustalık Notları (80/20)](./_USTALIK_NOTLARI/README.md):** Kritik konuların can alıcı özetleri.
 
 ---
 
 </div>
 
-## 📡 LIVE SYSTEM TELEMETRY (GERÇEK ZAMANLI VİZYON)
+## 📡 CANLI SİSTEM TELEMETRİSİ (GERÇEK ZAMANLI VİZYON)
 
 ```mermaid
 graph LR
-    subgraph "INPUT_STREAM (Raw Data)"
-        A["KTÜ Curriculum (2615)"] -- "Analog Data" --> B{SINGULARITY_CORE}
+    subgraph "GIRIS_AKISI (Ham Veri)"
+        A["KTÜ Müfredatı (2615)"] -- "Analog Veri" --> B{TEKILLIK_CEKIRDEGI}
     end
 
-    subgraph "PROCESSING_UNIT (Transformation)"
-        B -- "AI Multiplier" --> C["Post-AI Engineering"]
-        B -- "Discipline Protocol" --> D["Mastery Logic"]
-        B -- "Black Swan Resilience" --> E["Strategic Depth"]
+    subgraph "ISLEME_BIRIMI (Dönüşüm)"
+        B -- "AI Çarpanı" --> C["Yapay Zeka Sonrası Mühendislik"]
+        B -- "Disiplin Protokolü" --> D["Ustalık Mantığı"]
+        B -- "Siyah Kuğu Dayanıklılığı" --> E["Stratejik Derinlik"]
     end
 
-    subgraph "OUTPUT_SYSTEM (The Transcendence)"
-        C --> F["🌌 SINGULARITY_ENGINEER"]
+    subgraph "CIKIS_SISTEMI (Yükseliş)"
+        C --> F["🌌 TEKILLIK_MÜHENDİSİ"]
         D --> F
         E --> F
-        F -- "Elite Impact" --> G["🚀 National Tech Sovereignty"]
+        F -- "Elit Etki" --> G["🚀 Milli Teknoloji Egemenliği"]
     end
 
     style B fill:#ff0000,stroke:#fff,stroke-width:5px,color:#fff
@@ -46,44 +63,44 @@ graph LR
 
 ---
 
-## 🏗️ ACADEMIC COMMAND DASHBOARD (SINGULARITY_MODE)
+## 🏗️ AKADEMİK KOMUTA PANELİ (TEKILLIK_MODU)
 
-Müfredatı bir "Sistem Hacking" operasyonu gibi yönetiyoruz. Her dönem bir "Sector"dür.
+Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "Sektördür".
 
 <table width="100%">
   <tr>
-    <th width="50%" align="center">🔥 SECTOR 01: IGNITION (1. SINIF)</th>
-    <th width="50%" align="center">🛡️ SECTOR 02: FORTIFICATION (2. SINIF)</th>
+    <th width="50%" align="center">🔥 SEKTÖR 01: ATEŞLEME (1. SINIF)</th>
+    <th width="50%" align="center">🛡️ SEKTÖR 02: TAHKİMAT (2. SINIF)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-01:</b> <a href="./1_SINIF/1_Guz/">Algorithm & Logic Hacking</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
-        <li><b>SEC-02:</b> <a href="./1_SINIF/2_Bahar/">System Core Recon</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
+        <li><b>SEC-01:</b> <a href="./1_SINIF/1_Guz/">Algoritma ve Mantık Hackleme</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
+        <li><b>SEC-02:</b> <a href="./1_SINIF/2_Bahar/">Sistem Çekirdek Keşfi</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-03:</b> <a href="./2_SINIF/3_Guz/">Data Structure Singularity</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
-        <li><b>SEC-04:</b> <a href="./2_SINIF/4_Bahar/">Architectural Solidification</a> <br/> <sub><i>"DB & Sistem mimarisinin inşası."</i></sub></li>
+        <li><b>SEC-03:</b> <a href="./2_SINIF/3_Guz/">Veri Yapıları Tekilliği</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
+        <li><b>SEC-04:</b> <a href="./2_SINIF/4_Bahar/">Mimari Sağlamlaştırma</a> <br/> <sub><i>"DB ve Sistem mimarisinin inşası."</i></sub></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <th width="50%" align="center">⚡ SECTOR 03: ASCENSION (3. SINIF)</th>
-    <th width="50%" align="center">🌌 SECTOR 04: TRANSCENDENCE (4. SINIF)</th>
+    <th width="50%" align="center">⚡ SEKTÖR 03: YÜKSELİŞ (3. SINIF)</th>
+    <th width="50%" align="center">🌌 SEKTÖR 04: ÖTESİ (4. SINIF)</th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-05:</b> <a href="./3_SINIF/5_Guz/">Deep Infra & Network Mastery</a> <br/> <sub><i>"OS & Network katmanlarında hakimiyet."</i></sub></li>
-        <li><b>SEC-06:</b> <a href="./3_SINIF/6_Bahar/">Scalable Singularity Arch.</a> <br/> <sub><i>"Dağıtık sistemlerin tanrısı ol."</i></sub></li>
+        <li><b>SEC-05:</b> <a href="./3_SINIF/5_Guz/">Derin Altyapı ve Ağ Uzmanlığı</a> <br/> <sub><i>"İşletim Sistemi ve Ağ katmanlarında hakimiyet."</i></sub></li>
+        <li><b>SEC-06:</b> <a href="./3_SINIF/6_Bahar/">Ölçeklenebilir Tekillik Mimarisi</a> <br/> <sub><i>"Dağıtık sistemlerin tanrısı ol."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-07:</b> <a href="./4_SINIF/7_Guz/">Industrial Quality Quantum</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
-        <li><b>SEC-08:</b> <a href="./4_SINIF/8_Bahar/">Final: SINGULARITY_PROJECT</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
+        <li><b>SEC-07:</b> <a href="./4_SINIF/7_Guz/">Endüstriyel Kalite Kuantumu</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
+        <li><b>SEC-08:</b> <a href="./4_SINIF/8_Bahar/">Final: TEKILLIK_PROJESI</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
       </ul>
     </td>
   </tr>
@@ -91,44 +108,44 @@ Müfredatı bir "Sistem Hacking" operasyonu gibi yönetiyoruz. Her dönem bir "S
 
 ---
 
-## 🛣️ MASTERY ROADMAPS (HEDEF YOL HARİTALARI)
+## 🛣️ USTALIK YOL HARİTALARI (MASTERY ROADMAPS)
 
 | Uzmanlık | Odak | Yol Haritası |
 | :--- | :--- | :--- |
-| **System Architect** | Mimari & Low-Level | [🔍 Explore Path](./ROADMAPS/SYSTEM_ARCHITECT.md) |
-| **AI Solution Engineer** | AI & Data | [🔍 Explore Path](./ROADMAPS/AI_ENGINEER.md) |
-| **Cyber Defense Lead** | Savunma & Net | [🔍 Explore Path](./ROADMAPS/CYBER_DEFENSE.md) |
+| **Sistem Mimarı** | Mimari ve Düşük Seviye | [🔍 Yolu Keşfet](./YOL_HARITALARI/SYSTEM_ARCHITECT.md) |
+| **Yapay Zeka Çözüm Mühendisi** | AI ve Veri | [🔍 Yolu Keşfet](./YOL_HARITALARI/AI_ENGINEER.md) |
+| **Siber Savunma Lideri** | Savunma ve Ağ | [🔍 Yolu Keşfet](./YOL_HARITALARI/CYBER_DEFENSE.md) |
 
 ---
 
-## 🛡️ STRATEGIC DOCTRINES (DOKTRİNLER)
+## 🛡️ STRATEJİK DOKTRİNLER (DOKTRİNLER)
 
 > [!CAUTION]
-> ### ⚔️ RULE 01: DIPLOMA IS COLLATERAL
+> ### ⚔️ KURAL 01: DİPLOMA YAN ÜRÜNDÜR
 > Diploma bir gaye değil, liyakat yolculuğunda toplanan bir ganimettir. Asıl hedef, sistemin ötesindeki **MUTLAK HAKİMİYET**tir.
 
 > [!IMPORTANT]
-> ### 🤖 RULE 02: AI SYNERGY
+> ### 🤖 KURAL 02: YAPAY ZEKA SİNERJİSİ
 > Yapay zeka senin kölen değil, zihninin 100x genişlemiş halidir. Onu yasaklayan sistemlere inat, biz onu **YARATICI YIKIM** (Creative Destruction) için kullanıyoruz.
 
 ---
 
-## 📡 TERMINAL LOGS (MASTER FEED)
+## 📡 TERMİNAL LOGLARI (MASTER FEED)
 
 ```bash
-[SYS_BOOT]: KTÜ Post-AI Hub Initialized... [OK]
-[LIYAKAT]: Scanning Sector 01-08... Integrity verified.
-[AI_SYNC]: Singular AI synergy active. 
-[WARNING]: Analog limitations detected in Sector 01-04. Applying Black Swan Protocol.
-[DESTINY]: Path to National Tech Sovereignty identified.
+[SYS_BOOT]: KTÜ Yapay Zeka Sonrası Merkezi Başlatıldı... [TAMAM]
+[LIYAKAT]: Sektör 01-08 Taranıyor... Bütünlük doğrulandı.
+[AI_SYNC]: Tekil AI sinerjisi aktif. 
+[WARNING]: Sektör 01-04'te analog sınırlamalar tespit edildi. Siyah Kuğu Protokolü uygulanıyor.
+[DESTINY]: Milli Teknoloji Egemenliğine giden yol tanımlandı.
 ```
 
 ---
 
 <div align="center">
   
-`TRANSMISSION_LEVEL: SINGULARITY`  
-`ARCHIVE_LEVEL: GOD_MODE_PLUS`  
-`COORDINATES: @BAHATTINYUNUS // STRATEGIC_ASSET`
+`İLETİM_SEVİYESİ: TEKİLLİK`  
+`ARŞİV_SEVİYESİ: ÜST_MOD_ARTI`  
+`KOORDİNATLAR: @BAHATTINYUNUS // STRATEJİK_VARLIK`
   
 </div>

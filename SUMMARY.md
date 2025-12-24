@@ -15,11 +15,11 @@ Bu dashboard, liyakatin zirvesine giden yoldaki stratejik ilerlemeyi gerçek zam
 
 | Layer | Status | Mastery Level | Deployment |
 | :--- | :--- | :--- | :--- |
-| **🌌 Singularity Core** | `ACTIVE` | 100% | `TRANSCENDENTAL` |
-| **🛣️ Roadmaps** | `INITIATED` | 100% | `DEPLOYED` |
-| **📜 Master Log** | `SYNCED` | 100% | `DEPLOYED` |
-| **🤖 AI Integration** | `SINGULARITY` | 100% | `FULL_SYNC` |
-| **🏗️ Curriculum** | `MASTERY` | 90% | `SYNCED` |
+| **🌌 Omniscient Core** | `OMNI_ACTIVE` | 100% | `TRANSCENDENTAL` |
+| **⚔️ Protocols** | `OPERATIONAL` | 100% | `DEPLOYED` |
+| **📡 Intel Briefs** | `ENCRYPTED` | 100% | `DEPLOYED` |
+| **🤖 AI Singularity** | `COMPLETE` | 100% | `FULL_SYNC` |
+| **🏗️ Curriculum** | `BEYOND_BASE` | 100% | `ARCHIVED` |
 
 ---
 
