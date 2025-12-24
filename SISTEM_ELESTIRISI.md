@@ -27,6 +27,11 @@ Bu repoyu takip edenlerin bilmesi gereken en temel gerçek şudur: Biz diplomay�
 - **Tercih:** Mevcut sistemin dar kalıplarında bir diploma sahibi olmak yerine, yazılım mühendisliği disiplininin evrensel standartlarında bir **Usta (Master)** olmayı seçtik.
 - **Bilinçli Duruş:** Diplomayı hedeflemeyen bir mühendis, sınav kağıdına değil, koda ve mimariye odaklanır. Bu özgürlük, gerçek disiplin kapısını açar.
 
+## 🤖 Post-AI Çağında Analog Direniş
+**Vaka: Yapay Zekayı Reddetme Yanılgısı**
+Sektörün saniyeler içinde kod üretebildiği bir çağda, öğrencileri hala sadece "ezber" ve "manuel süreçlere" zorlamak, onları geleceğin dünyasına silahsız göndermektir. 
+- **Post-AI Analizi:** Biz yapay zekayı bir "hile" değil, bir "akıl ortağı" olarak görüyoruz. Onu yasaklayan sistemler, aslında öğrencinin gelişimini durdurmaktadır. Bizim cevabımız, AI ile müfredatı baştan sona modernize etmektir.
+
 ---
 
 ## 🔥 Orijinal Başkaldırı Notu (Arşivlik)

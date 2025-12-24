@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ POST-AI YAZILIM MÜHENDİSLİĞİ MERKEZİ
 ### "Geleneksel Müfredat Temelinde, Yapay Zeka Çağı Mühendisliği"
@@ -79,7 +80,7 @@ Müfredatı sınavları geçmek için değil, AI çağında o konuya nasıl **h�
 
 ## 📊 VİZYON AKIŞ ŞEMASI (POST-AI FLOW)
 
-```mermaid
+\`\`\`mermaid
 graph TD
     A[Geleneksel Müfredat] --> B{AI Entegrasyonu}
     B -- "Sadece Prompt" --> C[Yüzeysel Kullanıcı]
@@ -92,14 +93,15 @@ graph TD
     
     style D fill:#ffebee,stroke:#b71c1c,stroke-width:3px
     style F fill:#e1f5fe,stroke:#01579b,stroke-width:4px
-```
+\`\`\`
 
 ---
 
 <div align="right">
   
-`STATUS: POST_AI_HUB_OPERATIONAL`  
-`BASIS: KTU_CURRICULUM_V1`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: POST_AI_HUB_OPERATIONAL\`  
+\`BASIS: KTU_CURRICULUM_V1\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');

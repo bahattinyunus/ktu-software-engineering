@@ -1,4 +1,4 @@
-# 📊 DİSİPLİN VE LİYAKAT ANALİTİĞİ
+# 📊 POST-AI YAZILIM MÜHENDİSLİĞİ: DİSİPLİN ANALİTİĞİ
 
 <div align="center">
   <img src="https://img.shields.io/badge/ANALYSIS-COMPLETE-blue?style=for-the-badge" />
