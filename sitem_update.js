@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ YAZILIM MÜHENDİSLİĞİ: BİR AKADEMİK MELANKOLİ ARŞİVİ
 ### "Tozlu Kağıtlar ve Satırlarda Kalan Sitemler"
@@ -79,7 +80,7 @@ Tablo, KTÜ müfredatını (PID: 2615) sadece birer durağı olarak görür.
 
 ## 📊 VİZYONUN YASLI AKIŞI (SITEM FLOW)
 
-```mermaid
+\`\`\`mermaid
 graph TD
     A[İdealler] --> B{Sistemle Karşılaşma}
     B -- "Uyum" --> C[Sönük Yıldızlar]
@@ -92,7 +93,7 @@ graph TD
     
     style D fill:#eceff1,stroke:#607d8b,stroke-width:2px
     style F fill:#e3f2fd,stroke:#1e88e5,stroke-width:3px
-```
+\`\`\`
 
 ---
 
@@ -102,8 +103,9 @@ graph TD
 
 <div align="right">
   
-`STATUS: SITEM_MODE_ACTIVE`  
-`MESSAGE: SILENT_BUT_DEEP`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: SITEM_MODE_ACTIVE\`  
+\`MESSAGE: SILENT_BUT_DEEP\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');
