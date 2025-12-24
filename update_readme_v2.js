@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ YAZILIM MÜHENDİSLİĞİ AKADEMİK KOMUTA MERKEZİ
 ### "Liyakat Kağıtta Değil, Repo'dadır" — A Manifesto for Real-World Engineering
@@ -95,7 +96,7 @@ Akademik ölçme sisteminin verimsizliği üzerine bir perspektif:
 
 ## 📊 VİZYON AKIŞ ŞEMASI (MERITOCRACY FLOW)
 
-```mermaid
+\`\`\`mermaid
 graph TD
     A[Mühendislik Tutkusu] --> B{Yol Seçimi}
     B -- "Sistem Uyumu" --> C[GPA Avcılığı]
@@ -109,7 +110,7 @@ graph TD
     
     style D fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style F fill:#f3e5f5,stroke:#4a148c,stroke-width:4px
-```
+\`\`\`
 
 ---
 
@@ -119,8 +120,9 @@ graph TD
 
 <div align="right">
   
-`STATUS: MISSION_PROFILE_UPDATED`  
-`LOC: DEFENSE_INDUSTRY_READY`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: MISSION_PROFILE_UPDATED\`  
+\`LOC: DEFENSE_INDUSTRY_READY\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');
