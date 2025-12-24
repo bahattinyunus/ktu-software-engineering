@@ -69,6 +69,12 @@ Bu tablo, 4 yıllık müfredatı liyakat odaklı bir perspektifle özetler. Her 
 
 ---
 
+### 1. Bilginin Kaynağından Bağımsızlığı
+Bilgi, ulaştığı mecradan bağımsız bir değerdir. YouTube, Coursera veya akademik kürsüler; hepsi aynı hakikate açılan farklı kapılardır. Profesyonel bir mühendis için asıl yetkinlik, bu kaynaklardan süzdüğü bilgiyi GitHub reposunda yaşayan koda dönüştürebilmesidir. [🔍 Vaka Analizi: Dijital Öğrenme](./SISTEM_ELESTIRISI.md)
+
+### 2. Analog Ölçme vs. Dijital Üretim
+Akademik değerlendirme süreçlerinde kullanılan analog yöntemler (kağıt üzerinde kodlama vb.), temel mantığı anlamak için birer başlangıç olabilir. Ancak asıl değerlendirme, kodun derlendiği, test edildiği ve canlı sistemlerde çalıştığı dijital ekosistemdir. Biz, dikkati süreçten 'çıktı'ya kaydırıyoruz. [🔍 Vaka Analizi: Analog Kodlama](./SISTEM_ELESTIRISI.md)
+
 ## 🛡️ MÜHENDİSLİK ETİK VE DİSİPLİNİ
 
 Yazılım sadece kod yazmak değildir; bir sorumluluk rejimidir. Profesyonel bir mühendisin etik pusulası şunları içerir:
