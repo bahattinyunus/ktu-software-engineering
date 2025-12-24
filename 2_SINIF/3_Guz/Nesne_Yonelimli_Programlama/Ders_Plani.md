@@ -1,26 +1,24 @@
-﻿# 🧩 Nesne Yönelimli Programlama (Ders Planı)
+﻿# 📦 Nesne Yönelimli Programlama: Nesne Odaklı Mimari Disiplini
 
-## 📊 Genel Bilgiler
-- **Ders Kodu:** YZM 2003
-- **AKTS:** 6
-- **Saat:** 3+1
-- **Öğrenim Çıktısı:** Nesne merkezli yazılım geliştirme prensipleri (OOP).
+## 📊 Stratejik Bilgiler
+- **Misyon:** Yazılımı gerçek dünya nesneleri ve bu nesnelerin etkileşimleri üzerinden modelleme yetisi kazanmak.
+- **Post-AI Hedefi:** AI'yı sınıf hiyerarşileri (Class Hierarchy) kurmak için değil, bu hiyerarşilerin **Tasarım Kalıplarına (Patterns)** uygunluğunu denetlemek ve optimize etmek için kullanmak.
 
-## 📅 Haftalık İzleme Tablosu
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Konu |
-| :--- | :--- |
-| 1 | Giriş: Nesne ve Sınıf Kavramı |
-| 2 | Sarmalama (Encapsulation) & Erişim Belirleyiciler |
-| 3 | Yapıcı (Constructor) ve Yıkıcı (Destructor) Metotlar |
-| 4 | Kalıtım (Inheritance) Prensipleri |
-| 5 | Çok Biçimlilik (Polymorphism) & Overriding |
-| 6 | Soyut Sınıflar (Abstract Classes) |
-| 7 | Arayüzler (Interfaces) |
-| 8 | ARA SINAV |
-| 9 | Hata Yönetimi (Exception Handling) |
-| 10 | Generic Programlama ve Koleksiyonlar |
-| 11 | Delegates ve Events (C# Spesifik) |
-| 12 | Dosya İşlemleri ve Serialization |
-| 13 | Design Patterns Giriş (Singleton, Factory) |
-| 14 | Proje Sunumları ve Genel Değerlendirme |
+| Hafta | Konu | Post-AI Mastery Eylemi |
+| :--- | :--- | :--- |
+| 1 | OOP Temelleri & Disiplin | Sınıf, Nesne ve Kapsülleme (Encapsulation) mantığı. |
+| 2 | Kalıtım (Inheritance) Paradoksu | AI ile "is-a" vs "has-a" ilişkilerinin analizi. |
+| 3 | Çok Biçimlilik (Polymorphism) | AI yardımıyla dinamik bağlama (Dynamic Binding) simülasyonu. |
+| 4 | Soyutlama (Abstraction) | Soyut sınıflar ve arayüzler (Interfaces) ile mimari iskelet. |
+| 5 | Nesne Ömrü ve Bellek (Garbage Collection) | AI ile bellek sızıntısı (Leak) ve yaşam döngüsü denetimi. |
+| 6 | Hata Yönetimi (Exception Handling) | AI yardımıyla dayanıklı (Resilient) hata yakalama stratejileri. |
+| 7 | Koleksiyon Framework'ü (Collections) | AI ile veri kümeleri için en doğru veri yapısı seçimi. |
+| 8 | ARA DEĞERLENDİRME | (Object Integrity: OK) |
+| 9 | Generic Programlama | AI yardımıyla tip güvenli ve esnek kod yapıları. |
+| 10 | Dosya ve Akış (I/O) İşlemleri | Nesnelerin serileştirilmesi (Serialization) ve saklanması. |
+| 11 | Multithreading & OOP | AI ile nesneler arası eşzamanlı veri paylaşım disiplini. |
+| 12 | OOP Tasarım Kalıpları (Giriş) | AI ile Singleton, Factory ve Observer desenleri. |
+| 13 | Modern Java/C#/C++ Özellikleri | AI yardımıyla yeni sürüm özelliklerinin (Lambda, Stream) entegrasyonu. |
+| 14 | Final Mastery Project | AI ile denetlenmiş, tam kapsamlı bir nesne tabanlı sistem. |

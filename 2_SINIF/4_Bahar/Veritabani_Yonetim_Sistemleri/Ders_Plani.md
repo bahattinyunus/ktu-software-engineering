@@ -1,25 +1,24 @@
-﻿# 🗄️ Veritabanı Yönetim Sistemleri (The Data Vault)
+﻿# 🗄️ Veritabanı Yönetim Sistemleri: Veri Mimarlığı Disiplini
 
 ## 📊 Stratejik Bilgiler
-- **Ders Kodu:** YZM 2004
-- **AKTS:** 6
-- **Misyon:** Bilginin kalıcı, güvenli ve hızlı bir şekilde saklanmasını yönetmek.
+- **Misyon:** Verinin saklanması, yönetilmesi ve ölçeklenebilir şekilde sorgulanması prensiplerini kavramak.
+- **Post-AI Hedefi:** AI'yı karmaşık SQL sorguları yazmak için değil, "Veri Modelleme (Modeling)" ve "Sorgu Optimizasyonu (Optimization)" süreçlerinde bir veri bilimci gibi kullanmak.
 
-## 📅 Operasyonel Akış
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Konu | Pratik Uygulama (Analog Değil!) |
+| Hafta | Konu | Post-AI Mastery Eylemi |
 | :--- | :--- | :--- |
-| 1 | Veritabanı Sistemlerine Giriş | SQL vs NoSQL karşılaştırması. |
-| 2 | İlişkisel Model (Relational Model) | Tablo yapıları ve anahtarlar (PK, FK). |
-| 3 | E-R (Entity-Relationship) Diyagramları | Veri modelleme sanatı. |
-| 4 | SQL Temelleri - I (DDL/DML) | Tablo oluşturma ve temel sorgular. |
-| 5 | SQL İleri Seviye (Joins, Subqueries) | Karmaşık veri ilişkileri. |
-| 6 | Veritabanı Normalizasyonu | 1NF, 2NF, 3NF ve BCNF (Veri tekrarını önleme). |
-| 7 | Transaction Yönetimi | ACID prensipleri ve veri bütünlüğü. |
-| 8 | ARA SINAV | (Veri Erişimi Sağlandı) |
-| 9 | İndeksleme ve Performans | B-Tree ve Hash indeksleri ile sorgu hızlandırma. |
-| 10 | Görünümler ve Saklı Yordamlar | Views, Stored Procedures ve Triggers. |
-| 11 | NoSQL Dünyasına Giriş | MongoDB ve Document-Store mimarileri. |
-| 12 | Veritabanı Güvenliği | Yetkilendirme ve SQL Injection korunma. |
-| 13 | Yedekleme ve Kurtarma | High Availability (HA) ve Disaster Recovery. |
-| 14 | Proje Sunumu | Tam kapsamlı bir veritabanı tasarımı. |
+| 1 | Giriş & Veri Modelleri | AI ile E-R diyagramlarının otomatik oluşturulması ve analizi. |
+| 2 | İlişkisel Model ve Cebir | AI ile matematiksel veri kümelerinin simülasyonu. |
+| 3 | SQL Giriş: Veri Tanımlama | AI ile veritabanı şemalarının dinamik inşası. |
+| 4 | SQL Gelişmiş: Veri Manipülasyonu | AI asistanı ile karmaşık `JOIN` ve `SUBQUERY` mimarileri. |
+| 5 | Normalizasyon Disiplini | AI yardımıyla veri tekrarını (Redundancy) tespit ve eliminasyon. |
+| 6 | Transaction Yönetimi & ACID | AI ile eşzamanlılık (Concurrency) hatalarının debug edilmesi. |
+| 7 | Indeksleme ve Performans | AI ile yavaş sorguların tespiti ve stratejik indeksleme. |
+| 8 | ARA DEĞERLENDİRME | (Database Integrity: OK) |
+| 9 | Saklı Yordamlar (Stored Procedures) | AI yardımıyla veritabanı içi iş mantığı (Logic) geliştirme. |
+| 10 | Tetikleyiciler (Triggers) & Viewlar | AI ile otonom veri doğrulama ve soyutlama katmanları. |
+| 11 | NoSQL Dünyasına Giriş | AI ile SQL vs NoSQL seçim stratejileri ve geçişler. |
+| 12 | Dağıtık Veritabanları & Sharding | AI ile veri dağıtım ve ölçeklendirme modelleri. |
+| 13 | Veri Güvenliği ve Yetkilendirme | AI yardımıyla SQL Injection ve yetki zafiyeti taraması. |
+| 14 | Final Mastery Project | AI ile optimize edilmiş, yüksek ölçekli bir veri mimarisi. |

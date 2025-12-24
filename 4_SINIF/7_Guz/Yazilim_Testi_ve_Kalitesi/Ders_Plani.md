@@ -1,25 +1,24 @@
-﻿# 🧪 Yazılım Testi ve Kalitesi (Bug Hunter Protocol)
+﻿# 🧪 Yazılım Testi ve Kalitesi: Post-AI Kalite Güvencesi
 
 ## 📊 Stratejik Bilgiler
-- **Ders Kodu:** YZM 4003
-- **AKTS:** 5
-- **Misyon:** Kodun kusursuzluğunu kanıtlamak ve hatayı sahada değil, testte yakalamak.
+- **Misyon:** Kodun doğruluğunu, güvenilirliğini ve kalitesini matematiksel ve sistematik olarak ispatlama disiplini.
+- **Post-AI Hedefi:** AI tarafından üretilen kodun "Denetçisi (Auditor)" olmak ve AI yardımıyla otonom test süreçleri inşa etmek.
 
-## 📅 Operasyonel Akış
+## 📅 Operasyonel Akış (Mastery Focused)
 
-| Hafta | Test Katmanı | Araç & Yaklaşım |
+| Hafta | Konu | Post-AI Mastery Eylemi |
 | :--- | :--- | :--- |
-| 1 | Testin Temelleri | Neden test yaparız? Yazılım hata maliyetleri. |
-| 2 | White-Box vs Black-Box Testing | Kod içi ve arayüz odaklı testler. |
-| 3 | Unit Testing (Birim Testi) | JUnit, xUnit, PyTest uygulamaları. |
-| 4 | TDD (Test Driven Development) | Önce test, sonra kod mantığı. |
-| 5 | Entegrasyon Testleri | Servislerin birbiriyle uyumu. |
-| 6 | Sistem ve Kabul Testleri | Kullanıcı beklentileri (UAT). |
-| 7 | Regresyon Testleri | Yeni kodun eskiyi bozmadığından emin olmak. |
-| 8 | ARA SINAV | (Hatalar Temizlendi) |
-| 9 | Performans ve Yük Testleri | JMeter ve Stress testleri. |
-| 10 | Güvenlik Testleri (Penetrasyon) | Zafiyet tarama temelleri. |
-| 11 | Statik Kod Analizi | SonarQube ve Linter kullanımı. |
-| 12 | CI/CD Boru Hatları (Pipelines) | Testlerin otomizasyonu (Jenkins/Github Actions). |
-| 13 | Kalite Standartları | ISO 9000 ve CMMI. |
-| 14 | Proje Sunumu | Tam kapsamlı bir test suite oluşturma. |
+| 1 | Testin Temelleri & Disiplini | AI ile test stratejisi oluşturma. |
+| 2 | Birim Testi (Unit Testing) | AI yardımıyla test case üretimi ve "Edge Case" analizi. |
+| 3 | Test-Driven Development (TDD) | AI asistanı ile TDD döngüsünü 10x hızlandırma. |
+| 4 | Entegrasyon ve Sistem Testi | AI ile servisler arası veri akış testleri. |
+| 5 | Kara Kutu & Beyaz Kutu Testi | AI ile kod kapsama (Coverage) optimizasyonu. |
+| 6 | Performans ve Yük Testleri | AI simülasyonu ile sistem sınırlarını zorlama. |
+| 7 | Statik Kod Analizi & Kalite Metrikleri | AI ile teknik borç (Technical Debt) tespiti. |
+| 8 | ARA DEĞERLENDİRME | (Quality Check: PASSED) |
+| 9 | Regresyon Testleri & Otomasyon | AI ile otonom regresyon suite'leri. |
+| 10 | Güvenlik Testleri (DevSecOps) | AI yardımıyla zafiyet (Vulnerability) taraması. |
+| 11 | Kullanılabilirlik (UI/UX) Testleri | AI ile kullanıcı davranış simülasyonları. |
+| 12 | Sürekli Entegrasyon (CI/CD) Bakımı | Test otomasyonunun boru hattına (Pipeline) gömülmesi. |
+| 13 | AI Model Test ve Validasyonu | (Post-AI Özel) AI çıktılarını denetleme teknikleri. |
+| 14 | Final Mastery Project | AI ile %100 kapsama ve sıfır hata hedefli bir proje. |
