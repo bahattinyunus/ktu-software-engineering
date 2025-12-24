@@ -96,14 +96,14 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-01:</b> <a href="./0_MUREDDAAT/1_SINIF/1_Guz/">Algoritma ve Mantık Hackleme</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
-        <li><b>SEC-02:</b> <a href="./0_MUREDDAAT/1_SINIF/2_Bahar/">Sistem Çekirdek Keşfi</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
+        <li><b>SEC-01 (Güz):</b> <a href="./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md">Algoritma I</a> | <a href="./0_MUREDDAAT/1_SINIF/1_Guz/">Tüm Sektör</a> <br/> <sub><i>"Mantıksal temeli AI ile yıkıp yeniden kur."</i></sub></li>
+        <li><b>SEC-02 (Bahar):</b> <a href="./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md">Algoritma II</a> | <a href="./0_MUREDDAAT/1_SINIF/2_Bahar/">Tüm Sektör</a> <br/> <sub><i>"Donanımın ruhuna (C/ASM) ilk sızma."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-03:</b> <a href="./0_MUREDDAAT/2_SINIF/3_Guz/">Veri Yapıları Tekilliği</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
-        <li><b>SEC-04:</b> <a href="./0_MUREDDAAT/2_SINIF/4_Bahar/">Mimari Sağlamlaştırma</a> <br/> <sub><i>"DB ve Sistem mimarisinin inşası."</i></sub></li>
+        <li><b>SEC-03 (Güz):</b> <a href="./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md">Veri Yapıları</a> | <a href="./0_MUREDDAAT/2_SINIF/3_Guz/">Tüm Sektör</a> <br/> <sub><i>"Bellek optimizasyonunun zirvesi."</i></sub></li>
+        <li><b>SEC-04 (Bahar):</b> <a href="./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md">Veritabanı</a> | <a href="./0_MUREDDAAT/2_SINIF/4_Bahar/">Tüm Sektör</a> <br/> <sub><i>"Mimari sağlamlaştırma ve veri yönetimi."</i></sub></li>
       </ul>
     </td>
   </tr>
@@ -114,14 +114,14 @@ Müfredatı bir "Sistem Hackleme" operasyonu gibi yönetiyoruz. Her dönem bir "
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SEC-05:</b> <a href="./0_MUREDDAAT/3_SINIF/5_Guz/">Derin Altyapı ve Ağ Uzmanlığı</a> <br/> <sub><i>"İşletim Sistemi ve Ağ katmanlarında hakimiyet."</i></sub></li>
-        <li><b>SEC-06:</b> <a href="./0_MUREDDAAT/3_SINIF/6_Bahar/">Ölçeklenebilir Tekillik Mimarisi</a> <br/> <sub><i>"Dağıtık sistemlerin tanrısı ol."</i></sub></li>
+        <li><b>SEC-05 (Güz):</b> <a href="./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md">İşletim Sistemleri</a> | <a href="./0_MUREDDAAT/3_SINIF/5_Guz/">Tüm Sektör</a> <br/> <sub><i>"Çekirdek (Kernel) seviyesinde hakimiyet."</i></sub></li>
+        <li><b>SEC-06 (Bahar):</b> <a href="./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md">Tasarım ve Mimari</a> | <a href="./0_MUREDDAAT/3_SINIF/6_Bahar/">Tüm Sektör</a> <br/> <sub><i>"Ölçeklenebilir tekillik mimarisi."</i></sub></li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>SEC-07:</b> <a href="./0_MUREDDAAT/4_SINIF/7_Guz/">Endüstriyel Kalite Kuantumu</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
-        <li><b>SEC-08:</b> <a href="./0_MUREDDAAT/4_SINIF/8_Bahar/">Final: TEKILLIK_PROJESI</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
+        <li><b>SEC-07 (Güz):</b> <a href="./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md">Test ve Kalite</a> | <a href="./0_MUREDDAAT/4_SINIF/7_Guz/">Tüm Sektör</a> <br/> <sub><i>"Kusursuz kalite ve otonom test."</i></sub></li>
+        <li><b>SEC-08 (Bahar):</b> <a href="./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md">Bitirme (Final Seal)</a> | <a href="./0_MUREDDAAT/4_SINIF/8_Bahar/">Tüm Sektör</a> <br/> <sub><i>"Zamanın ötesindeki son mühür."</i></sub></li>
       </ul>
     </td>
   </tr>
