@@ -1,4 +1,5 @@
-<div align="center">
+const fs = require('fs');
+const content = `<div align="center">
 
 # 🏛️ KTÜ YAZILIM MÜHENDİSLİĞİ: BİR BAŞKALDIRI ARŞİVİ
 ### "Söz Söylenecek Gün Değil, İcraat ve İsyan Günüdür!"
@@ -79,7 +80,7 @@ Her ders modülü, bu köhne sistemi nasıl aşabileceğinize dair birer rehber 
 
 ## 📊 BAŞKALDIRI AKIŞ ŞEMASI (REBELLION FLOW)
 
-```mermaid
+\`\`\`mermaid
 graph TD
     A[Akademik Prangalar] --> B{Karar}
     B -- "Uyum Sağla" --> C[Kağıda Hapsetme]
@@ -92,7 +93,7 @@ graph TD
     
     style D fill:#ff5252,stroke:#b71c1c,stroke-width:2px,color:#fff
     style F fill:#e1f5fe,stroke:#01579b,stroke-width:4px
-```
+\`\`\`
 
 ---
 
@@ -102,8 +103,9 @@ graph TD
 
 <div align="right">
   
-`STATUS: REBELLION_ACTIVE`  
-`MESSAGE: NO_MORE_SILENCE`  
-`AUTHOR: @BAHATTINYUNUS`
+\`STATUS: REBELLION_ACTIVE\`  
+\`MESSAGE: NO_MORE_SILENCE\`  
+\`AUTHOR: @BAHATTINYUNUS\`
   
-</div>
+</div>`;
+fs.writeFileSync('README.md', content, 'utf8');
