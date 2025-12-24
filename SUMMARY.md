@@ -8,11 +8,11 @@
 
 | Katman | Durum | Doluluk |
 | :--- | :--- | :--- |
-| **Repo Mimarisi** | `SYNCED` | 100% |
-| **1. Sınıf Modülleri** | `DRAFTING` | 25% |
-| **2. Sınıf Modülleri** | `DRAFTING` | 15% |
-| **3. Sınıf Modülleri** | `EMPTY` | 0% |
-| **4. Sınıf Modülleri** | `EMPTY` | 0% |
+| **Repo Mimarisi** | `ELITE` | 100% |
+| **1. Sınıf Modülleri** | `DRAFTING` | 40% |
+| **2. Sınıf Modülleri** | `DRAFTING` | 30% |
+| **3. Sınıf Modülleri** | `DRAFTING` | 25% |
+| **4. Sınıf Modülleri** | `DRAFTING` | 20% |
 
 ## 🛠️ TEKNOLOJİK ALTYAPI
 
